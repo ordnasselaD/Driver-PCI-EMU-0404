@@ -1,0 +1,295 @@
+[CAB_VER_INFO]
+Version=10.0 
+
+[FILE_INFO]
+Filename          SubPath              Size          Date        Time  Language   CRC         Version(Binary)  Version(String)
+=========================================================================================================================================
+Support.cab                         1968706   15 Sep 2015  08:59:52AM             0x6484617F                   
+setup.skn                             41465   23 Oct 2002  04:32:56PM             0x2FE97F95                   
+setup.inx                            373563   15 Sep 2015  10:15:24AM             0x5D460773                   
+setup.ini                               669   18 May 2009  03:18:32PM             0x850DA2D0                   
+setup.ibt                            435969   18 May 2009  03:13:32PM             0xED46E3D1                   
+setup.exe                            116880   10 Nov 2003  06:55:38PM  English    0x5682D58D        9.1.0.429  9.01.429
+License.txt       License\TChinese     46024   02 Jun 2011  10:00:40AM             0x897D19E4                   
+License.txt       License\Svenska     59753   03 Jun 2011  09:58:34AM             0x5E134614                   
+License.txt       License\Suomi       60572   03 Jun 2011  09:54:42AM             0x5846D320                   
+License.txt       License\Russian     65330   03 Jun 2011  09:53:48AM             0xCE340EF3                   
+License.txt       License\Port        63113   03 Jun 2011  09:49:02AM             0xC0C3C5DF                   
+License.txt       License\Polski      62727   03 Jun 2011  09:48:28AM             0xAB51A694                   
+License.txt       License\PChinese     46270   02 Jun 2011  10:12:10AM             0x64002137                   
+License.txt       License\Norsk       59861   03 Jun 2011  09:47:46AM             0x082359C1                   
+License.txt       License\Nederlnd     63210   03 Jun 2011  09:47:04AM             0xFA40CF1C                   
+License.txt       License\Korean      54158   03 Jun 2011  09:42:46AM             0xB3187919                   
+License.txt       License\Japanese     57041   01 Jun 2011  10:10:18AM             0xD1D9C877                   
+License.txt       License\Italiano     62132   03 Jun 2011  09:42:08AM             0x1443E051                   
+License.txt       License\Francais     62919   03 Jun 2011  09:37:58AM             0x7FC6C044                   
+License.txt       License\Espanol     61879   03 Jun 2011  09:36:52AM             0x44E19534                   
+License.txt       License\English     29158   23 May 2011  03:57:38PM             0xC7366075                   
+License.txt       License\Deutsch     63964   03 Jun 2011  09:35:32AM             0x4C32ECCD                   
+License.txt       License\Dansk       60236   03 Jun 2011  09:34:22AM             0x1AAAAB49                   
+License.txt       License\Cesky       59849   03 Jun 2011  09:31:26AM             0xEA6904CA                   
+License.txt       License\Br_Port     63113   03 Jun 2011  09:49:02AM             0xC0C3C5DF                   
+layout.bin                              492   18 May 2009  03:18:32PM             0x5664361C                   
+engine32.cab                         459544   02 Dec 2003  08:31:50AM             0x957D46A8                   
+XFi.bmp           Drivers\wdm\win2k_xp      1688   01 Jul 2009  10:12:32AM             0x34A1CBE1                   
+SBXFi.ico         Drivers\wdm\win2k_xp      5430   01 Jul 2009  10:12:32AM             0xB264C2F1                   
+PfModNT.sys       Drivers\wdm\win2k_xp\i386     27144   30 Apr 2019  02:41:50AM  English    0xBA7ECB2B         3.0.0.12  3.0.0.12
+ha20x2k.sys       Drivers\wdm\win2k_xp\i386   1199624   30 Apr 2019  02:41:50AM  English    0x270DD50E       6.0.240.26  6.0.240.0026-2.40.0000
+ha20x22k.sys      Drivers\wdm\win2k_xp\i386   1243144   30 Apr 2019  02:41:50AM  English    0xB8F125F6       6.0.240.26  6.0.240.0026-2.40.0000
+emupia2k.sys      Drivers\wdm\win2k_xp\i386    107528   30 Apr 2019  02:41:50AM  English    0xA774D4E3       6.0.240.26  6.0.240.0026-2.40.0000
+ctsfm2k.sys       Drivers\wdm\win2k_xp\i386    171008   30 Apr 2019  02:41:50AM  English    0x80F67A47       6.0.240.26  6.0.240.0026-2.40.0000
+ctprxy2k.sys      Drivers\wdm\win2k_xp\i386     26120   30 Apr 2019  02:41:48AM  English    0x58E14A1B       6.0.240.26  6.0.240.0026-2.40.0000
+ctoss2k.sys       Drivers\wdm\win2k_xp\i386    141832   30 Apr 2019  02:41:48AM  English    0x2AAB6497       6.0.240.26  6.0.240.0026-2.40.0000
+CTHWIUT.sys       Drivers\wdm\win2k_xp\i386     85512   30 Apr 2019  02:41:48AM             0xB4807B58                   
+CTEXFIFX.sys      Drivers\wdm\win2k_xp\i386   1365000   30 Apr 2019  02:41:48AM             0xE15294A9                   
+CtDvInst.dll      Drivers\wdm\win2k_xp\i386    191712   30 Apr 2019  02:41:48AM  English    0x9E077502         0.5.0.62  0, 5, 0, 62
+ctdvda2k.sys      Drivers\wdm\win2k_xp\i386    359144   30 Apr 2019  02:41:46AM  English    0x388F7CDC       5.13.1.467  5.13.01.0467-1.56.0970
+CtCoInst.dll      Drivers\wdm\win2k_xp\i386     95456   30 Apr 2019  02:41:46AM  English    0x479DE20B         3.0.2.62  3, 0, 2, 62
+ctaud2k.sys       Drivers\wdm\win2k_xp\i386    551304   30 Apr 2019  02:41:46AM  English    0x2716C688       6.0.240.26  6.0.240.0026-2.40.0000
+ctac32k.sys       Drivers\wdm\win2k_xp\i386    522760   30 Apr 2019  02:41:46AM  English    0xC53F2DF4       6.0.1.1242  6.00.01.1242-2.12.1070
+CT20XUT.sys       Drivers\wdm\win2k_xp\i386    209928   30 Apr 2019  02:41:46AM             0x72FAA74C                   
+ct20xflt.sys      Drivers\wdm\win2k_xp\i386   1822984   30 Apr 2019  02:41:44AM  English    0xAFF4F6E6      5.10.0.4315  5.10.00.4315
+ctxfigm.rfx       Drivers\wdm\win2k_xp\data     56192   01 Jul 2009  10:38:16AM             0x93E2F28C                   
+ctxfiem.rfx       Drivers\wdm\win2k_xp\data     56660   01 Jul 2009  10:38:16AM             0xDBD34185                   
+ctxficm.rfx       Drivers\wdm\win2k_xp\data     56592   01 Jul 2009  10:38:16AM             0x91DD2DCF                   
+ctxficbm.rfx      Drivers\wdm\win2k_xp\data      7352   01 Jul 2009  10:38:16AM             0x9BECA0A6                   
+cts20x.dat        Drivers\wdm\win2k_xp\data      2091   29 Apr 2019  01:13:08PM             0xF3482396                   
+ctp0889w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:54PM             0xF08F63BB                   
+ctp0889v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:34PM             0x2A3DC881                   
+ctp0888w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:58PM             0x26D7C55D                   
+ctp0888v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:38PM             0x2A60045F                   
+ctp0886w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:52PM             0x0BADFE4A                   
+ctp0886v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:30PM             0xC64C8FAA                   
+ctp0883w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:54PM             0x7B2C9B1E                   
+ctp0883v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:32PM             0x6567B6BD                   
+ctp0882w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:52PM             0x58243F03                   
+ctp0882v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:28PM             0x6EF4AB63                   
+ctp0881w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:56PM             0xEA1C7BB5                   
+ctp0881v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:36PM             0x6CD9DB6D                   
+ctp0880w.dat      Drivers\wdm\win2k_xp\data    303156   29 Apr 2019  01:15:50PM             0xC883568F                   
+ctp0880v.dat      Drivers\wdm\win2k_xp\data    416994   29 Apr 2019  01:16:26PM             0xFF9A87BE                   
+ctp0779w.dat      Drivers\wdm\win2k_xp\data    298918   29 Apr 2019  01:15:46PM             0xFB926326                   
+ctp0779v.dat      Drivers\wdm\win2k_xp\data    412572   29 Apr 2019  01:16:18PM             0xE6F9950F                   
+ctp0776w.dat      Drivers\wdm\win2k_xp\data    298918   29 Apr 2019  01:15:48PM             0x7FA6B65D                   
+ctp0776v.dat      Drivers\wdm\win2k_xp\data    412572   29 Apr 2019  01:16:20PM             0x944BC836                   
+ctp0775w.dat      Drivers\wdm\win2k_xp\data    298918   29 Apr 2019  01:15:50PM             0x48EE02DB                   
+ctp0775v.dat      Drivers\wdm\win2k_xp\data    412572   29 Apr 2019  01:16:24PM             0x81F57186                   
+ctp0773w.dat      Drivers\wdm\win2k_xp\data    298918   29 Apr 2019  01:15:46PM             0x2E74BEB9                   
+ctp0773v.dat      Drivers\wdm\win2k_xp\data    412572   29 Apr 2019  01:16:16PM             0xBB8235AC                   
+ctp0772w.dat      Drivers\wdm\win2k_xp\data    298918   29 Apr 2019  01:15:48PM             0x64A768AA                   
+ctp0772v.dat      Drivers\wdm\win2k_xp\data    412572   29 Apr 2019  01:16:22PM             0xD7591254                   
+ctp0760w.dat      Drivers\wdm\win2k_xp\data    292511   29 Apr 2019  01:15:42PM             0xC20ABCA2                   
+ctp0760v.dat      Drivers\wdm\win2k_xp\data    406249   29 Apr 2019  01:16:08PM             0xA11BC920                   
+ctp073Aw.dat      Drivers\wdm\win2k_xp\data    295200   29 Apr 2019  01:15:44PM             0xBCC9E21E                   
+ctp073Av.dat      Drivers\wdm\win2k_xp\data    407951   29 Apr 2019  01:16:14PM             0x4E2E8501                   
+ctp0730w.dat      Drivers\wdm\win2k_xp\data    295200   29 Apr 2019  01:15:40PM             0x25202791                   
+ctp0730v.dat      Drivers\wdm\win2k_xp\data    407951   29 Apr 2019  01:16:08PM             0xB5131A1E                   
+ctp0679w.dat      Drivers\wdm\win2k_xp\data    375237   29 Apr 2019  01:15:38PM             0xE9FED3E8                   
+ctp0679v.dat      Drivers\wdm\win2k_xp\data    487988   29 Apr 2019  01:16:02PM             0xA4909687                   
+ctp0678w.dat      Drivers\wdm\win2k_xp\data    375237   29 Apr 2019  01:15:46PM             0x31894E57                   
+ctp0678v.dat      Drivers\wdm\win2k_xp\data    406397   29 Apr 2019  01:16:18PM             0xA3E2552F                   
+ctp055Aw.dat      Drivers\wdm\win2k_xp\data    293278   29 Apr 2019  01:15:44PM             0xAD65DC12                   
+ctp055Av.dat      Drivers\wdm\win2k_xp\data    406029   29 Apr 2019  01:16:12PM             0xC8220A80                   
+ctp0550w.dat      Drivers\wdm\win2k_xp\data    293606   29 Apr 2019  01:15:38PM             0x1715680E                   
+ctp0550v.dat      Drivers\wdm\win2k_xp\data    406357   29 Apr 2019  01:16:04PM             0x5C4034F9                   
+ctp046Cw.dat      Drivers\wdm\win2k_xp\data    292762   29 Apr 2019  01:15:42PM             0x8723A260                   
+ctp046Cv.dat      Drivers\wdm\win2k_xp\data    405513   29 Apr 2019  01:16:12PM             0xC471BD45                   
+ctp046Bw.dat      Drivers\wdm\win2k_xp\data    292762   29 Apr 2019  01:15:42PM             0x4CF415D4                   
+ctp046Bv.dat      Drivers\wdm\win2k_xp\data    405513   29 Apr 2019  01:16:10PM             0xD496E384                   
+ctp046Aw.dat      Drivers\wdm\win2k_xp\data    292762   29 Apr 2019  01:15:42PM             0x96049723                   
+ctp046Av.dat      Drivers\wdm\win2k_xp\data    405513   29 Apr 2019  01:16:10PM             0xAC071AB4                   
+ctp0469w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:40PM             0xE9EF4E81                   
+ctp0469v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:08PM             0x78DF2FF9                   
+ctp0468w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:40PM             0xE87DF747                   
+ctp0468v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:06PM             0x58926D50                   
+ctp0466w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:36PM             0x38BB518C                   
+ctp0466v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:00PM             0x95152850                   
+ctp0465w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:40PM             0x4E13174C                   
+ctp0465v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:06PM             0xD82D6021                   
+ctp0464w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:38PM             0x9968774D                   
+ctp0464v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:04PM             0xDB03FFEA                   
+ctp0463w.dat      Drivers\wdm\win2k_xp\data    293536   29 Apr 2019  01:15:38PM             0xE9010C4F                   
+ctp0463v.dat      Drivers\wdm\win2k_xp\data    406287   29 Apr 2019  01:16:02PM             0xF1CC25A8                   
+ctp0462w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:44PM             0xE86E42E1                   
+ctp0462v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:14PM             0x7434C7CD                   
+ctp0460w.dat      Drivers\wdm\win2k_xp\data    293090   29 Apr 2019  01:15:36PM             0x30886520                   
+ctp0460v.dat      Drivers\wdm\win2k_xp\data    405841   29 Apr 2019  01:16:00PM             0xA187D647                   
+ctd20x.dat        Drivers\wdm\win2k_xp\data     42287   29 Apr 2019  01:13:08PM             0xD9122562                   
+ctdnlstr.dat      Drivers\wdm\win2k_xp    384647   29 Apr 2019  01:22:42PM             0x9B6685BC                   
+ctdlang.dat       Drivers\wdm\win2k_xp     51787   29 Apr 2019  01:22:42PM             0x7CAA60A8                   
+PfModNT.sys       Drivers\wdm\win2k_xp\amd64     28168   30 Apr 2019  02:41:44AM             0xF81C4709                   
+ha20x2k.sys       Drivers\wdm\win2k_xp\amd64   1582080   30 Apr 2019  02:41:44AM             0x759A06D4                   
+ha20x22k.sys      Drivers\wdm\win2k_xp\amd64   1627144   30 Apr 2019  02:41:44AM             0x7647B33B                   
+emupia2k.sys      Drivers\wdm\win2k_xp\amd64    130056   30 Apr 2019  02:41:44AM             0x3BC88917                   
+ctsfm2k.sys       Drivers\wdm\win2k_xp\amd64    224776   30 Apr 2019  02:41:42AM             0x2213EC99                   
+ctprxy2k.sys      Drivers\wdm\win2k_xp\amd64     27680   30 Apr 2019  02:41:42AM             0xF203937B                   
+ctoss2k.sys       Drivers\wdm\win2k_xp\amd64    190984   30 Apr 2019  02:41:42AM             0x4D75A41D                   
+CTHWIUT.sys       Drivers\wdm\win2k_xp\amd64    107016   30 Apr 2019  02:41:42AM             0xA9640E9F                   
+CTEXFIFX.sys      Drivers\wdm\win2k_xp\amd64   1457672   30 Apr 2019  02:41:42AM             0x5AD44C6A                   
+CtDvInst.dll      Drivers\wdm\win2k_xp\amd64    228088   30 Apr 2019  02:41:42AM             0x2B98A2A6                   
+CtCoInst.dll      Drivers\wdm\win2k_xp\amd64     83168   30 Apr 2019  02:41:40AM             0xAAF360CA                   
+ctaud2k.sys       Drivers\wdm\win2k_xp\amd64    712832   30 Apr 2019  02:41:40AM             0x2B0D55BE                   
+ctac32k.sys       Drivers\wdm\win2k_xp\amd64    592392   30 Apr 2019  02:41:40AM             0xDD469738                   
+CT20XUT.sys       Drivers\wdm\win2k_xp\amd64    242184   30 Apr 2019  02:41:40AM             0xB68CF9F8                   
+ct20xflt.sys      Drivers\wdm\win2k_xp\amd64   2023432   30 Apr 2019  02:41:40AM             0x8F63FC8E                   
+wdmemu64.cat      Drivers\wdm         57710   30 Apr 2019  02:41:00AM             0x210BC9F9                   
+wdma_emu.inf      Drivers\wdm         69865   26 Apr 2019  05:40:58PM             0x46CAB467                   
+wdm_emu.cat       Drivers\wdm         45618   30 Apr 2019  02:41:02AM             0xECEF62B3                   
+UDACFX64.uda      Drivers\wdm          6726   12 Jun 2009  10:13:42PM             0xA9C1BBB0                   
+UDACFX32.uda      Drivers\wdm          6342   12 Jun 2009  09:02:16PM             0x152CB3E4                   
+UDAAPO64.uda      Drivers\wdm          8515   12 Jun 2009  10:09:54PM             0xFC8A029C                   
+UDAAPO32.uda      Drivers\wdm          8022   12 Jun 2009  08:57:42PM             0x8D27BD00                   
+inresSpn.dll      Drivers\wdm\lang\i386     20480   30 Jul 2004  01:46:54PM  Spanish    0x03482161          1.0.9.0  1, 0, 9, 0
+InResKor.dll      Drivers\wdm\lang\i386     20480   02 Aug 2004  12:09:00AM  Korean     0xCA8E2549          1.0.9.0  1, 0, 9, 0
+InResJpn.dll      Drivers\wdm\lang\i386     16384   23 Jul 2004  12:09:00AM  Japanese   0xB201DE55          1.0.9.0  1, 0, 9, 0
+inresIta.dll      Drivers\wdm\lang\i386     20480   30 Jul 2004  01:48:30PM  Italian    0x633C5931          1.0.9.0  1, 0, 9, 0
+inresGer.dll      Drivers\wdm\lang\i386     20480   30 Jul 2004  01:46:14PM  German     0x657794D9          1.0.9.0  1, 0, 9, 0
+inresFrn.dll      Drivers\wdm\lang\i386     20480   30 Jul 2004  01:47:28PM  French     0xE69E5CAD          1.0.9.0  1, 0, 9, 0
+inresDut.dll      Drivers\wdm\lang\i386     24576   30 Jul 2004  01:47:58PM  Dutch      0x7B5FFC09          1.0.9.0  1, 0, 9, 0
+inResCHT.dll      Drivers\wdm\lang\i386     20480   03 Jun 2005  03:56:06PM  Chinese    0xC9EC8E38          1.0.9.0  1, 0, 9, 0
+inResCHS.dll      Drivers\wdm\lang\i386     20480   03 Jun 2005  04:08:06PM  Chinese    0x1F0D944E          1.0.9.0  1, 0, 9, 0
+inresBrz.dll      Drivers\wdm\lang\i386     20480   30 Jul 2004  01:45:34PM  Portuguese 0xE172B049          1.0.9.0  1, 0, 9, 0
+inres.dll         Drivers\wdm\lang\i386     21216   30 Apr 2019  02:41:40AM  English    0x8D11DF77          1.0.9.0  1, 0, 9, 0
+CtxfiSpn.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:05:40PM  Spanish    0x7395EAB7       6.0.1.1320  1, 0, 4, 0
+CtxfiRes.dll      Drivers\wdm\lang\i386     12000   30 Apr 2019  02:41:38AM  English    0xDFCB8A22       6.0.240.26  6.0.240.0026-2.40.0000
+CtxfiKor.dll      Drivers\wdm\lang\i386      2560   17 Sep 2007  04:17:36PM  Korean     0x28DDD88F       6.0.1.1320  1, 0, 4, 0
+CtxfiJpn.dll      Drivers\wdm\lang\i386      2560   17 Sep 2007  05:12:30PM  Japanese   0x5339D4DF       6.0.1.1320  1, 0, 4, 0
+CtxfiIta.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:06:12PM  Italian    0x2993885C       6.0.1.1320  1, 0, 4, 0
+CtxfiGer.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:05:22PM  German     0x264E28DE       6.0.1.1320  1, 0, 4, 0
+CtxfiFrn.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:05:58PM  French     0xA530A38F       6.0.1.1320  1, 0, 4, 0
+CtxfiDut.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:06:26PM  Dutch      0x3B9C95B5       6.0.1.1320  1, 0, 4, 0
+CtxfiCHT.dll      Drivers\wdm\lang\i386      2560   12 Sep 2007  08:59:42AM  Chinese    0xB6DFBCEA       6.0.1.1320  1, 0, 4, 0
+CtxfiCHS.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  06:49:52AM  Chinese    0xC120E7A7       6.0.1.1320  1, 0, 4, 0
+CtxfiBrz.dll      Drivers\wdm\lang\i386      2560   13 Sep 2007  05:04:56PM  Portuguese 0x760D6E27       6.0.1.1320  1, 0, 4, 0
+ctspn.dat         Drivers\wdm\lang     53972   28 Mar 2008  03:17:02PM             0xB46C6D1B                   
+ctkor.dat         Drivers\wdm\lang     50894   28 Mar 2008  03:15:20PM             0xE4D9EDB5                   
+ctjpn.dat         Drivers\wdm\lang     49386   28 Mar 2008  03:02:10PM             0x5C1E9BB0                   
+ctita.dat         Drivers\wdm\lang     54440   28 Mar 2008  03:16:56PM             0x86BE2BAF                   
+ctger.dat         Drivers\wdm\lang     52740   23 Jun 2008  01:16:36PM             0x0D4F15AD                   
+ctfrn.dat         Drivers\wdm\lang     53843   28 Mar 2008  03:16:48PM             0xCBB56DB1                   
+ctdut.dat         Drivers\wdm\lang     53061   01 Jul 2008  01:40:32PM             0x8DB49E8A                   
+ctcht.dat         Drivers\wdm\lang     49532   28 Mar 2008  02:17:40PM             0xE82A3642                   
+ctchs.dat         Drivers\wdm\lang     49581   28 Mar 2008  01:56:06PM             0x29C31BF6                   
+ctbrz.dat         Drivers\wdm\lang     53632   28 Mar 2008  03:16:38PM             0x2281EE46                   
+inresSpn.dll      Drivers\wdm\lang\amd64     20480   30 Jul 2004  01:46:54PM  Spanish    0x03482161          1.0.9.0  1, 0, 9, 0
+InResKor.dll      Drivers\wdm\lang\amd64     20480   02 Aug 2004  12:09:00AM  Korean     0xCA8E2549          1.0.9.0  1, 0, 9, 0
+InResJpn.dll      Drivers\wdm\lang\amd64     16384   23 Jul 2004  12:09:00AM  Japanese   0xB201DE55          1.0.9.0  1, 0, 9, 0
+inresIta.dll      Drivers\wdm\lang\amd64     20480   30 Jul 2004  01:48:30PM  Italian    0x633C5931          1.0.9.0  1, 0, 9, 0
+inresGer.dll      Drivers\wdm\lang\amd64     20480   30 Jul 2004  01:46:14PM  German     0x657794D9          1.0.9.0  1, 0, 9, 0
+inresFrn.dll      Drivers\wdm\lang\amd64     20480   30 Jul 2004  01:47:28PM  French     0xE69E5CAD          1.0.9.0  1, 0, 9, 0
+inresDut.dll      Drivers\wdm\lang\amd64     24576   30 Jul 2004  01:47:58PM  Dutch      0x7B5FFC09          1.0.9.0  1, 0, 9, 0
+inResCHT.dll      Drivers\wdm\lang\amd64     20480   03 Jun 2005  03:56:06PM  Chinese    0xC9EC8E38          1.0.9.0  1, 0, 9, 0
+inResCHS.dll      Drivers\wdm\lang\amd64     20480   03 Jun 2005  04:08:06PM  Chinese    0x1F0D944E          1.0.9.0  1, 0, 9, 0
+inresBrz.dll      Drivers\wdm\lang\amd64     20480   30 Jul 2004  01:45:34PM  Portuguese 0xE172B049          1.0.9.0  1, 0, 9, 0
+inres.dll         Drivers\wdm\lang\amd64     21728   30 Apr 2019  02:41:38AM             0xEDCAAFCD                   
+CtxfiSpn.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:05:40PM  Spanish    0x7395EAB7       6.0.1.1320  1, 0, 4, 0
+CtxfiRes.dll      Drivers\wdm\lang\amd64     12536   30 Apr 2019  02:41:38AM             0x4BC5A6A8                   
+CtxfiKor.dll      Drivers\wdm\lang\amd64      2560   17 Sep 2007  04:17:36PM  Korean     0x28DDD88F       6.0.1.1320  1, 0, 4, 0
+CtxfiJpn.dll      Drivers\wdm\lang\amd64      2560   17 Sep 2007  05:12:30PM  Japanese   0x5339D4DF       6.0.1.1320  1, 0, 4, 0
+CtxfiIta.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:06:12PM  Italian    0x2993885C       6.0.1.1320  1, 0, 4, 0
+CtxfiGer.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:05:22PM  German     0x264E28DE       6.0.1.1320  1, 0, 4, 0
+CtxfiFrn.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:05:58PM  French     0xA530A38F       6.0.1.1320  1, 0, 4, 0
+CtxfiDut.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:06:26PM  Dutch      0x3B9C95B5       6.0.1.1320  1, 0, 4, 0
+CtxfiCHT.dll      Drivers\wdm\lang\amd64      2560   12 Sep 2007  08:59:42AM  Chinese    0xB6DFBCEA       6.0.1.1320  1, 0, 4, 0
+CtxfiCHS.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  06:49:52AM  Chinese    0xC120E7A7       6.0.1.1320  1, 0, 4, 0
+CtxfiBrz.dll      Drivers\wdm\lang\amd64      2560   13 Sep 2007  05:04:56PM  Portuguese 0x760D6E27       6.0.1.1320  1, 0, 4, 0
+instwdm.ini       Drivers\wdm         28316   29 Apr 2019  02:26:08PM             0x258B7C6D                   
+ctzapxx.ini       Drivers\wdm            54   29 Apr 2019  02:26:04PM             0x5DE4728C                   
+CTMLFX64.uda      Drivers\wdm          5530   02 Jun 2008  11:11:30AM             0xF1A19D59                   
+CTMLFX32.uda      Drivers\wdm          5458   02 Jun 2008  11:10:06AM             0xE391222D                   
+kill.ini          Drivers\wdm\common       285   01 Jul 2009  10:12:32AM             0xD691F380                   
+UDATEL32.exe      Drivers\wdm\common\i386    185544   30 Apr 2019  02:41:36AM  English    0x276261E2          1.0.0.0  1.0.0.0
+udapld32.dll      Drivers\wdm\common\i386     56544   30 Apr 2019  02:41:36AM             0xF96692D4                   
+UDACFX32.dll      Drivers\wdm\common\i386    230208   29 Apr 2019  11:40:58PM             0xB9EADBBE                   
+UDAAPO32.dll      Drivers\wdm\common\i386    523032   29 Apr 2019  11:40:56PM             0x78EA9299                   
+UDAAIM32.exe      Drivers\wdm\common\i386    621936   30 Apr 2019  02:41:36AM  English    0x5D76D7C0         2.51.0.0  2,51,0,0
+sfms32.dll        Drivers\wdm\common\i386\thunk    146656   30 Apr 2019  02:41:38AM             0xD3D5CEE6                   
+piaproxy.dll      Drivers\wdm\common\i386\thunk     90336   30 Apr 2019  02:41:38AM             0x6EA87B2E                   
+ctdproxy.dll      Drivers\wdm\common\i386\thunk     71384   30 Apr 2019  02:41:38AM             0x4BF16911                   
+ctasio.dll        Drivers\wdm\common\i386\thunk     61176   30 Apr 2019  02:41:36AM             0xA508BDAA                   
+sfms32.dll        Drivers\wdm\common\i386    140000   30 Apr 2019  02:41:36AM  English    0xF3FAD803       6.0.240.26  6.0.240.0026-2.40.0000
+sfman32.dll       Drivers\wdm\common\i386     19680   30 Apr 2019  02:41:34AM  English    0x46FB7E5C       6.0.240.26  6.0.240.0026-2.40.0000
+regplib.exe       Drivers\wdm\common\i386     25824   30 Apr 2019  02:41:34AM             0xFEC7E38F                   
+piaproxy.dll      Drivers\wdm\common\i386     78040   30 Apr 2019  02:41:34AM  English    0xB60C1FDB       6.0.240.26  6.0.240.0026-2.40.0000
+OALInst.exe       Drivers\wdm\common\i386    819024   30 Apr 2019  02:41:34AM  English    0x5ED85552          2.1.0.0  2, 1, 0, 0
+mididef.exe       Drivers\wdm\common\i386     40672   30 Apr 2019  02:41:34AM  English    0xA6872F72          2.9.0.6  2, 9, 0, 6
+killapps.exe      Drivers\wdm\common\i386     22240   30 Apr 2019  02:41:34AM  English    0x419EB454          1.0.0.1  1, 0, 0, 1
+enlocstr.exe      Drivers\wdm\common\i386     17144   30 Apr 2019  02:41:32AM             0x3A788E99                   
+EAXAC3.DLL        Drivers\wdm\common\i386     87288   30 Apr 2019  02:41:32AM  English    0x2BA600AC          1.1.2.0  1.12
+devreg.dll        Drivers\wdm\common\i386     46304   30 Apr 2019  02:41:32AM  English    0x200AA4D6       6.0.240.26  6.0.240.0026-2.40.0000
+CtxfiSpk.dll      Drivers\wdm\common\i386     48648   30 Apr 2019  02:41:32AM  English    0x3C03F22D       6.0.240.26  6.0.240.0026-2.40.0000
+CTxfiSpi.exe      Drivers\wdm\common\i386   1281032   30 Apr 2019  02:41:30AM  English    0x9D2DE7DB       6.0.240.26  6.0.240.0026-2.40.0000
+CTxfiReg.exe      Drivers\wdm\common\i386     56328   30 Apr 2019  02:41:30AM  English    0x14CA379C       6.0.240.26  6.0.240.0026-2.40.0000
+Ctxfihlp.exe      Drivers\wdm\common\i386     33800   30 Apr 2019  02:41:28AM  English    0xFED1E797       6.0.240.26  6.0.240.0026-2.40.0000
+CTxfiBtn.dll      Drivers\wdm\common\i386     51720   30 Apr 2019  02:41:28AM  English    0xCD857B9A       6.0.240.26  6.0.240.0026-2.40.0000
+ctosuser.dll      Drivers\wdm\common\i386     83464   30 Apr 2019  02:41:28AM  English    0xD17968C0       6.0.240.26  6.0.240.0026-2.40.0000
+CTMLFX32.dll      Drivers\wdm\common\i386     73232   29 Apr 2019  11:40:54PM             0x9B3528A0                   
+CTEMUPIA.dll      Drivers\wdm\common\i386    210440   30 Apr 2019  02:41:26AM  English    0x179558B7       6.0.240.26  6.0.240.0026-2.40.0000
+ctdproxy.dll      Drivers\wdm\common\i386     62472   30 Apr 2019  02:41:26AM  English    0x53CBF6DA       6.0.240.26  6.0.240.0026-2.40.0000
+ctasio.dll        Drivers\wdm\common\i386     59912   30 Apr 2019  02:41:24AM             0x0A355F2D                   
+ct_oal.dll        Drivers\wdm\common\i386    202248   30 Apr 2019  02:41:32AM  English    0x14003F0B       6.0.240.26  6.0.240.0026-2.40.0000
+Ct20xspi.dll      Drivers\wdm\common\i386     24584   30 Apr 2019  02:41:24AM  English    0x1C8AEEF3       6.0.240.26  6.0.240.0026-2.40.0000
+CiSetup.dll       Drivers\wdm\common\i386    103432   30 Apr 2019  02:41:24AM  English    0x6954C203         0.0.0.62  0, 0, 0, 62
+AppSetup.exe      Drivers\wdm\common\i386  27483888   30 Apr 2019  02:41:22AM  English    0x0B5E330B        1.0.22.28  1,0,22,28
+AddCat.exe        Drivers\wdm\common\i386     51720   30 Apr 2019  02:41:22AM  English    0x8124298D          1.0.0.1  1.0.0.1
+ac3api.dll        Drivers\wdm\common\i386     22536   30 Apr 2019  02:41:20AM             0xCAE12BC8                   
+A3D.dll           Drivers\wdm\common\i386     23560   30 Apr 2019  02:41:20AM  English    0xC9C231F7         80.0.0.3  80.0.0.3
+default8.sfm      Drivers\wdm\common        59   01 Jul 2009  10:12:32AM             0x05E4718E                   
+default4.sfm      Drivers\wdm\common        59   01 Jul 2009  10:12:32AM             0xE3D0829A                   
+default.sfm       Drivers\wdm\common        59   01 Jul 2009  10:12:32AM             0x90CAFB10                   
+ctdnlstr.dat      Drivers\wdm\common    384647   29 Apr 2019  01:22:42PM             0x9B6685BC                   
+ctdlang.dat       Drivers\wdm\common     51787   29 Apr 2019  01:22:42PM             0x7CAA60A8                   
+CT2MGM.SF2        Drivers\wdm\common   2167684   01 Jul 2009  10:12:32AM             0x34FD8E9C                   
+CT1MGM.ROM        Drivers\wdm\common   1048576   01 Jul 2009  10:12:32AM             0xAA7B5BCD                   
+UDATEL64.exe      Drivers\wdm\common\amd64    187216   30 Apr 2019  02:41:20AM  English    0x34705289          1.0.0.0  1.0.0.0
+udapld64.dll      Drivers\wdm\common\amd64     67080   30 Apr 2019  02:41:18AM             0x5E595313                   
+UDACFX64.dll      Drivers\wdm\common\amd64    297344   29 Apr 2019  11:40:54PM             0xE26CB202                   
+UDAAPO64.dll      Drivers\wdm\common\amd64    601576   29 Apr 2019  11:40:52PM             0x4F6BD98B                   
+UDAAIM64.exe      Drivers\wdm\common\amd64    621728   30 Apr 2019  02:41:18AM  English    0x438079D6         2.51.0.0  2,51,0,0
+sfms32.dll        Drivers\wdm\common\amd64    174600   30 Apr 2019  02:41:18AM             0xB6FA085B                   
+sfman32.dll       Drivers\wdm\common\amd64     19976   30 Apr 2019  02:41:16AM             0xD68CCECC                   
+regplib.exe       Drivers\wdm\common\amd64     27656   30 Apr 2019  02:41:16AM             0x23CE7273                   
+piaproxy.dll      Drivers\wdm\common\amd64     92680   30 Apr 2019  02:41:14AM             0xD3A1889F                   
+mididef.exe       Drivers\wdm\common\amd64     46600   30 Apr 2019  02:41:14AM             0xDF394ACA                   
+killapps.exe      Drivers\wdm\common\amd64     23560   30 Apr 2019  02:41:14AM             0x0F223F83                   
+enlocstr.exe      Drivers\wdm\common\amd64     17928   30 Apr 2019  02:41:12AM             0x3A9AD098                   
+devreg.dll        Drivers\wdm\common\amd64     53768   30 Apr 2019  02:41:12AM             0xAD1BEFDE                   
+CtxfiSpk.dll      Drivers\wdm\common\amd64     52232   30 Apr 2019  02:41:10AM             0xC8815D5F                   
+CTxfiSpi.exe      Drivers\wdm\common\amd64   1792520   30 Apr 2019  02:41:10AM             0x6DD5C0CF                   
+CTxfiReg.exe      Drivers\wdm\common\amd64     57352   30 Apr 2019  02:41:08AM             0x9F358EF7                   
+Ctxfihlp.exe      Drivers\wdm\common\amd64     35336   30 Apr 2019  02:41:08AM             0xCA679C50                   
+CTxfiBtn.dll      Drivers\wdm\common\amd64     57352   30 Apr 2019  02:41:08AM             0x2957F4FD                   
+ctosur64.dll      Drivers\wdm\common\amd64     98312   30 Apr 2019  02:41:06AM             0x92B7FDC3                   
+CTMLFX64.dll      Drivers\wdm\common\amd64     83064   29 Apr 2019  11:40:50PM             0xE5E3FBA8                   
+CTEMUPIA.dll      Drivers\wdm\common\amd64    215560   30 Apr 2019  02:41:06AM             0x8B9F2718                   
+ctdpxy64.dll      Drivers\wdm\common\amd64     76808   30 Apr 2019  02:41:04AM             0x4D681060                   
+ctasio64.dll      Drivers\wdm\common\amd64     65032   30 Apr 2019  02:41:04AM             0x599CC80F                   
+ct_oal.dll        Drivers\wdm\common\amd64    191496   30 Apr 2019  02:41:12AM             0xCDFB65C0                   
+Ct20xspi.dll      Drivers\wdm\common\amd64     28168   30 Apr 2019  02:41:02AM             0x1989E53E                   
+CiSetup.dll       Drivers\wdm\common\amd64    110088   30 Apr 2019  02:41:02AM             0x5C943926                   
+instwdm.dll       Drivers\support\i386    117760   11 Feb 2019  08:21:00PM  English    0xFD0CFCFD       0.81.2.245  0, 81, 2, 245
+ctzapxx.ini       Drivers\support\i386       191   11 Feb 2019  07:03:00PM             0x6EBB2748                   
+ctzapxx.exe       Drivers\support\i386    197120   11 Feb 2019  08:21:00PM  English    0x64CA31AB       0.81.2.276  0, 81, 2, 276
+instwdm.dll       Drivers\support\amd64    138240   11 Feb 2019  10:24:00PM             0x932F31AF                   
+ctzapxx.ini       Drivers\support\amd64       191   11 Feb 2019  09:26:00PM             0x6EBB2748                   
+ctzapxx.exe       Drivers\support\amd64    246272   11 Feb 2019  10:24:00PM             0xFD776C22                   
+Setup.ini         Drivers               131   01 Jul 2009  10:00:00AM             0x377CE245                   
+Setup.exe         Drivers             31744   11 Feb 2019  08:21:00PM  English    0x73A04C92          1.0.0.1  1.00.0.1 built by: WinDDK
+Disk.id                                  63   16 May 2019  11:12:09AM             0x2045E2FA                   
+Data2.cab                               512   18 May 2009  03:18:32PM             0x85D0CF1D                   
+Data1.hdr                             17773   18 May 2009  03:18:32PM             0xB83B82AF                   
+Data1.cab                           1193016   18 May 2009  03:18:32PM             0x5F1F8D3A                   
+setup.iss         CTShared\LaunchEx\PIDInst       288   28 Feb 2006  10:20:30AM             0x899C0F62                   
+setup.inx         CTShared\LaunchEx\PIDInst    205451   03 Feb 2006  01:01:00AM             0x407353C4                   
+setup.ini         CTShared\LaunchEx\PIDInst       473   03 Feb 2006  01:01:00AM             0x91D45222                   
+setup.ibt         CTShared\LaunchEx\PIDInst    375586   13 Jan 2006  01:01:00AM             0x455CF4A1                   
+setup.exe         CTShared\LaunchEx\PIDInst    116880   10 Nov 2003  06:55:38PM  English    0x5682D58D        9.1.0.429  9.01.429
+PIDVer.ini        CTShared\LaunchEx\PIDInst       224   24 Jan 2014  04:31:02PM             0x2FD0D1DE                   
+Pid.cab           CTShared\LaunchEx\PIDInst    265365   24 Jan 2014  04:30:50PM             0x21F577F2                   
+layout.bin        CTShared\LaunchEx\PIDInst       455   13 Jan 2006  01:01:00AM             0x92E017D4                   
+engine32.cab      CTShared\LaunchEx\PIDInst    459544   02 Dec 2003  08:31:48AM             0x957D46A8                   
+data2.cab         CTShared\LaunchEx\PIDInst       512   13 Jan 2006  01:01:00AM             0xBC62682C                   
+data1.hdr         CTShared\LaunchEx\PIDInst      9815   13 Jan 2006  01:01:00AM             0xB90D1808                   
+data1.cab         CTShared\LaunchEx\PIDInst    489851   13 Jan 2006  01:01:00AM             0x4E2C2BAB                   
+CTCabEx.DLL                          286720   25 Mar 2004  12:10:00AM  English    0xCED070A8          1.0.1.0  1.0.1.0
+CmnSupt.Cab                         1111467   11 Oct 2012  01:51:00AM             0x19816347                   

@@ -1,0 +1,5 @@
+1.Install file EmuPMX_PCDrv_US_2_30_00_BETA.exe e EmuPMX_PCApp_US_2_20_00.exe
+2.Restart in Safe Mode, press Shit key and click restart
+3.In Safe Mode, click button on file EMU_Driver_Fix.ps1 and click excetution PowerShell
+4.Restart
+5.Your card 0404 is ready to pump music!!!

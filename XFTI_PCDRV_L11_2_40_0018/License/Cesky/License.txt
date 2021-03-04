@@ -1,0 +1,372 @@
+Tento soubor obsahuje anglickou a eeskou verzi liceneni zmlouvy na software. V poípade jakıchkoliv nesrovnalostí mezi dvima verzemi anglická verze bude platit.
+
+======================================
+LICENENÍ SMLOUVA NA SOFTWARE CREATIVE PRO KONCOVÉ UIVATELE
+Verze 3.5, Verze 2011
+======================================
+
+PEÈLIVÌ SI PØEÈTÌTE TENTO DOKUMENT. PØED STAENÍM, INSTALACÍ NEBO POUÍVÁNÍM SOFTWARU MUSÍTE SOUHLASIT S PODMÍNKAMI TÉTO SMLOUVY.
+
+MÁTE-LI V ÚMYSLU STÁHNOUT A POUÍVAT ZKUŠEBNÍ VERZI SOFTWARU Z TOHOTO WEBU NEBO Z DISKU CD/DVD, PØEÈTÌTE SI KROMÌ PODMÍNEK OBSAENİCH V TOMTO DOKUMENTU ZEJMÉNA ÈÁST NAZVANOU „DODATEÈNÁ USTANOVENÍ PRO ZKUŠEBNÍ VERZI SOFTWARU“. NESTAHUJTE ANI NEPOUÍVEJTE ZKUŠEBNÍ VERZI SOFTWARU, DOKUD SI NEPØEÈTETE PODMÍNKY TÉTO SMLOUVY VÈETNÌ ÈÁSTI NAZVANÉ „DODATEÈNÁ USTANOVENÍ PRO ZKUŠEBNÍ VERZI SOFTWARU“ A NEBUDETE S NIMI SOUHLASIT.
+
+Toto je zákonná smlouva mezi vámi a spoleeností Creative Technology Ltd. a jejími poidruenımi firmami („Creative”). V této smlouvi jsou uvedeny smluvní podmínky, na základi kterıch spoleenost Creative nabízí poskytnutí licence na software spolu se související dokumentací a doprovodnım materiálem, veetni, ale ne pouze, spustitelnıch programu, ovladaeu, knihoven a datovıch souboru, které jsou k timto programum poipojeny (souhrnni „Software”).
+
+LICENCE
+1. Udilení licence
+Na Software vám byla poskytnuta licence, která vám jej dovoluje pouívat pouze v rámci podmínek této smlouvy. Software vám nebyl prodán. Tato licenení Smlouva je dokladem o licenci slouícím k uplatoování práv udilenıch v této Smlouvi a musíte ji uschovat. Pokud jde o vztah mezi vámi a spoleeností Creative (a do uplatnitelné míry i udilovateli licencí), spoleenost Creative si podrí všechny zákonné nároky a vlastnická práva na software a vyhrazuje si všechna práva, která vám nebyla vıslovni poskytnuta. Spoleenost Creative Vám udiluje právo pouívat veškerı Software nebo jeho eást za poedpokladu, e: 
+(a) Software není distribuován pro zisk,
+(b) Software je pouíván pouze ve spojení s produkty rodiny Creative,
+(c) Software NENÍ zminin, 
+(d) všechny autorské doloky v Softwaru jsou aktualizovány.  
+
+2. Pro pouití na jednom poèítaèi nebo zaøízení
+Software smí v jednom okamiku pouívat pouze jeden uivatel na jednom poèítaèi nebo zaøízení spoleènosti Creative („Zaøízení“). Pokud byl Software nainstalován z disku CD/DVD, mùete strojovì èitelnou èást Softwaru pøenést z jednoho poèítaèe na jinı za pøedpokladu, e
+(a) Software (veetni všech jeho eástí ei kopií) bude vymazán z prvního poeítaee a 
+(b) neexistuje monost, e by Software byl pouíván na více ne jednom poeítaei soueasni.
+Software nelze pøenášet ze Zaøízení do poèítaèe èi jiného zaøízení.
+
+3. Samostatnı poeítae
+Software smíte pouívat pouze na samostatném poèítaèi tak, aby Software a jeho funkce byly pøístupné pouze osobám, které jsou fyzicky pøítomny v místì, kde se nalézá poèítaè nebo Zaøízení, na nìm je Software spuštìn. Nesmíte povolit vzdálenı pøístup k Softwaru èi jeho funkcím ani pøenášet Software jako celek ani ádnou jeho èást po síti nebo pøenosové lince.
+
+4. Autorská práva
+Software je vlastnictvím spoleenosti Creative a je chránin zákony Spojenıch státu o autorskıch právech a ustanoveními mezinárodních dohod. Ze ádné kopie Softwaru ani ze ádné kopie písemnıch materiálu, které mohou bıt poípadni k Softwaru poiloeny, nesmíte odstranit autorskou doloku ani ji pozminit. Kromi práv vıslovni uvedenıch v tomto dokumentu vám tato Smlouva nedává ádná práva k duševnímu vlastnictví v Softwaru. Všechna práva, která nejsou spoleeností Creative vıslovni udilena, jsou vyhrazena spoleeností Creative a/nebo subjekty, které jí poskytly licenci.
+
+5. Jedna kopie pro úeely archivace (eást 5 se netıká zkušební verze Softwaru)
+Smíte zhotovit jednu (1) archivní kopii strojovì èitelné èásti Softwaru pro úèely zálohování, která bude slouit pouze jako podpora vašeho vyuití Softwaru na jediném poèítaèi (pokud byl Software dodán na disku CD/DVD), za pøedpokladu, e na kopii zkopírujete všechny doloky o autorskıch a jinıch vlastnickıch právech, které obsahují originály Softwaru.
+
+6. ádné vkládání ani spojování
+Nesmíte vloit ádnou eást Softwaru do ádného jiného programu ani sloueit ádnou eást Softwaru s ádnım jinım programem, s vıjimkou rozsahu, ve kterém je toto vıslovni dovoleno zákony v místi, kde Software pouíváte. Na jakoukoli eást Softwaru, která by poípadni byla vloena do jiného programu nebo s jinım programem sloueena, se budou nadále vztahovat podmínky této smlouvy a vy budete povinni ve vloenıch nebo sloueené eásti reprodukovat všechny doloky o autorskıch a jinıch vlastnickıch právech, které obsahují originály Softwaru.
+
+7. Sí?ová verze
+Jestlie jste si koupili „sí?ovou“ verzi Softwaru, tato Smlouva se vztahuje na instalaci Softwaru na jediném „souborovém serveru“. Software nesmí bıt kopírován na více systému. Kadı „uzel“, kterı je poipojen k „souborovému serveru“, musí rovni mít vlastní licenci pro „uzlovou kopii“ Softwaru, která bude licencí pouze pro tento specifickı „uzel“.
+	
+8. Licence je nepoenosná
+Svoji licenci na Software nesmíte poevést na toetí stranu.
+
+9. Omezení pouití, kopírování a upravování Softwaru
+S vıjimkou rozsahu vıslovni povoleného touto smlouvou nebo zákony zemi, ve které jste Software získali, nesmíte Software pouívat, kopírovat ani modifikovat. Nesmíte ani poskytovat licenci na nikterá ze svıch práv, která vyplıvají z této Smlouvy. Software muete pouívat pouze pro svoji osobní potoebu, nikoli pro veoejné úeely nebo pro tvorbu jakıchkoli veoejni zobrazovanıch dil.
+	
+10. Zpitnı poeklad, zpitnı poevod do asembleru a zpitné inenırství
+Uznáváte, e Software obsahuje obchodní tajemství a jiné informace, které jsou vlastnictvím spoleenosti Creative a udilovatelu licence. S vıjimkou rozsahu, ve kterém je to vıslovni dovoleno touto smlouvou nebo zákony v místi, kde Software pouíváte, nesmíte Software zpitni poekládat, poevádit zpit do asembleru ani provádit jinı druh zpitného inenırství ei se zabıvat jakoukoli jinou einností, která by vedla k získání podkladovıch informací, které nejsou pro uivatele viditelné v souvislosti s normálním pouíváním Softwaru.
+
+Zejména souhlasíte s tím, e nebudete Software šíoit ani zobrazovat objektovı kód Softwaru na obrazovce poeítaee ani nebudete tisknout kopie pamiti obsahující objektovı kód Softwaru. Pokud se budete domnívat, e potoebujete informace, které se vztahují k interakci Softwaru s jinımi programy, nebudete Software zpitni poekládat ani ho poevádit zpit do asembleru, abyste tyto informace získali. Souhlasíte s tím, e si tyto informace vyádáte od spoleenosti Creative na níe uvedené adrese. Po obdrení takové ádosti je jen na uváení spoleenosti Creative, zda vám takové informace poskytne.
+
+V kadém poípadi spoleenost Creative uvidomíte o jakıchkoli informacích, které pocházejí ze zpitného inenırství nebo podobnıch einností. Tyto vısledky budou duvirnımi informacemi spoleenosti Creative, které lze pouívat pouze ve spojení se Softwarem.
+
+11. Podmínky pouití aplikace Gracenote(R) CDDB(R)
+Tato aplikace nebo zaoízení mue obsahovat software spoleenosti Gracenote, Inc. se sídlem v Emeryvillu v Kalifornii („Gracenote“).  Software spoleenosti Gracenote („Software Gracenote“) aplikaci umoouje provádit identifikaci disku a/nebo souboru online a získávat ze serveru online („Servery Gracenote“) nebo z vloenıch databází informace o skladbách, veetni jejich názvu, jmen interpretu a dalších informací („Data Gracenote“) a provádit další funkce.  Data Gracenote muete pouívat pouze prostoednictvím funkcí této aplikace nebo zaoízení ureenıch pro koncové uivatele.
+
+Potvrzujete a souhlasíte, e spoleenost Creative neeiní ádné vyjádoení, závazek ani záruku, a? u vıslovnou, poedpokládanou ei jinou, ohledni poskytování, kontinuity poskytování nebo pouívání softwaru Gracenote Client, Dat Gracenote nebo Serveru Gracenote ei souvisejících materiálu. Vıslovni souhlasíte s tím, e spoleenost Creative nezarueuje, e budete mít bihem trvání této Smlouvy poístup ke slubám spoleenosti Gracenote.
+
+Dále potvrzujete a souhlasíte, e spoleenost Creative nebude zodpovidná poímo ani nepoímo za jakékoli škody ei ztráty zpusobené ei domnile zpusobené v souvislosti s pouíváním nebo nemoností pouití softwaru Gracenote Client, Dat Gracenote nebo Serveru Gracenote ei souvisejících materiálu.  
+
+Souhlasíte s tím, e budete pouívat Data Gracenote, Software Gracenote a Servery Gracenote pouze pro osobní potoebu a nekomerení úeely.  Software Gracenote ani Data Gracenote nesmíte poidilit, zkopírovat, poenést ani odeslat (vyjma identifikace pomocí tagu obsaené v hudebním souboru) ádné toetí strani.  SOUHLASÍTE, E NEBUDETE POUÍVAT ANI VYUÍVAT DATA GRACENOTE, SOFTWARE GRACENOTE ANI SERVERY GRACENOTE JINAK, NE JE VİSLOVNI POVOLENO V TÉTO SMLOUVI.
+
+Souhlasíte s tím, e vaše nevıhradní licence k pouívání Dat Gracenote, Softwaru Gracenote a Serveru Gracenote bude ukoneena, pokud tato omezení porušíte.  Bude-li vaše licence ukoneena, souhlasíte s tím, e poestanete jakımkoli zpusobem pouívat Data Gracenote, Software Gracenote a Servery Gracenote.  Všechna práva k Datum Gracenote, Softwaru Gracenote a Serverum Gracenote veetni všech vlastnickıch práv jsou vyhrazena spoleenosti Gracenote.  Za ádnıch okolností není spoleenost Gracenote povinna vyplácet vám jakoukoli eástku za vámi poskytnuté informace.  Souhlasíte s tím, e spoleenost Gracenote, Inc. mue svá práva vyplıvající z této smlouvy proti vám uplatnit poímo pod svım vlastním jménem.
+
+Sluba Gracenote pouívá jedineenı identifikátor ke sledování dotazu pro statistické úeely.  Náhodni poioazenı eíselnı identifikátor je ureen k tomu, aby sluba Gracenote mohla poeítat dotazy, ani by zjiš?ovala vaši totonost.  Více informací o slubi Gracenote najdete na webovıch stránkách spoleenosti Gracenote v eásti Gracenote Privacy Policy (Zásady zachování soukromí spoleenosti Gracenote).
+
+Software Gracenote a všechny poloky dat Gracenote jsou vám licencovány „TAK JAK JSOU“.  Spoleenost Gracenote neposkytuje ádné záruky, vıslovni uvedené nebo poedpokládané, tıkající se správnosti Dat Gracenote získanıch ze Serveru Gracenote.  Spoleenost Gracenote si vyhrazuje právo odstraoovat data ze serveru Gracenote a minit kategorie dat kdykoli to uzná za vhodné.  Není poskytována ádná záruka na to, e Software Gracenote a Servery Gracenote budou pracovat bez chyb, ani na to, e jejich provoz bude nepoetritı. Spoleenost Gracenote vám není povinna poskytovat nové, vylepšené nebo dodateené datové typy ei kategorie, které moná bude v budoucnu poskytovat, a mue kdykoli ukoneit poskytování svıch slueb.
+
+SPOLEENOST GRACENOTE NEUZNÁVÁ ÁDNÉ ZÁRUKY VİSLOVNI UVEDENÉ NEBO POEDPOKLÁDANÉ VEETNI, ALE NIKOLI VİHRADNI, POEDPOKLÁDANİCH ZÁRUK VZTAHUJÍCÍCH SE K OBCHODOVATELNOSTI, VHODNOSTI PRO UREITİ ÚEEL A K NEPORUŠENÍ PRÁVA.  SPOLEENOST GRACENOTE NEPOSKYTUJE ÁDNOU ZÁRUKU NA VİSLEDKY, KTERÉ ZÍSKÁTE POUITÍM SOFTWARU GRACENOTE NEBO KTERÉHOKOLI SERVERU GRACENOTE.  SPOLEENOST GRACENOTE NEBUDE V ÁDNÉM POÍPADI ZODPOVIDNÁ ZA NÁSLEDNÉ NEBO NEPOÍMÉ ŠKODY ANI ZA JAKÉKOLI ZTRÁTY NA ZISCÍCH EI VİNOSECH.
+
+12. UKONEENÍ
+Licence, která vám byla udilena, je platná a do svého ukoneení. Licenci muete ukoneit kdykoli tím, e Software, kterı nyní vlastníte nebo spravujete (veetni všech jeho eástí a kopií), znieíte. Licence také automaticky zaniká bez jakéhokoli upozorniní, pokud nedodríte kteroukoli z podmínek této Smlouvy. Souhlasíte, e na základi takovéhoto ukoneení Software (veetni všech jeho eástí a kopií) znieíte. Na základi ukoneení licence mue také spoleenost Creative vymáhat všechna svá zákonem stanovená práva, i jednotlivi. Ustanovení této Smlouvy, která chrání vlastnická práva spoleenosti Creative, zustanou v platnosti i po ukoneení licence.
+
+13. ÁDNÉ ZÁRUKY
+VEŠKERÉ POUÍVÁNÍ SOFTWARU JE NA VLASTNÍ NEBEZPEEÍ. SOFTWARE JE POSKYTOVÁN POUZE PRO POUITÍ S HARDWAREM SPOLEENOSTI CREATIVE A SOUVISEJÍCÍM SOFTWAREM. SOFTWARE JE POSKYTOVÁN K POUITÍ „TAK JAK JE“ BEZ ZÁRUKY JAKÉHOKOLI DRUHU. V NEJVITŠÍM MONÉM ROZSAHU POVOLENÉM ROZHODNİM PRÁVEM NEUZNÁVÁ SPOLEENOST CREATIVE ÁDNÉ ZÁRUKY JAKÉHOKOLI DRUHU, VİSLOVNI UVEDENÉ ANI POEDPOKLÁDANÉ VEETNI, BEZ OMEZENÍ, POEDPOKLÁDANİCH ZÁRUK NEBO PODMÍNEK VZTAHUJÍCÍCH SE K OBCHODOVATELNOSTI, VHODNOSTI PRO UREITİ ÚEEL A K NEPORUŠENÍ PRÁVA. SPOLEENOST CREATIVE NENÍ POVINNA POSKYTOVAT K SOFTWARU AKTUALIZACE ANI INOVACE.
+
+ádnı distributor, prodejce ani ádnı jinı subjekt èi osoba nejsou oprávnìni rozšiøovat ani mìnit tuto záruku ani ádné jiné ustanovení této Smlouvy. Spoleènost Creative nezaruèuje, e funkce, které Software obsahuje, budou splòovat vaše poadavky ani e bude Software fungovat bez pøerušení a e nebude obsahovat chyby ani škodlivı kód. Pro úèely tohoto odstavce znamená „škodlivı kód“ jakıkoli programovı kód, kterı byl navren s cílem narušovat jiné programy nebo data, vyuívat poèítaèové zdroje, modifikovat, poškozovat, zaznamenávat nebo šíøit data nebo nìjakım jinım zpùsobem násilnì zasahovat do normální èinnosti poèítaèe, poèítaèového systému, poèítaèové sítì nebo jiného zaøízení, vèetnì virù, trojskıch koní, dropperù, parazitních programù šíøících se po síti, logickıch bomb a podobnì. 
+
+ádnı jinı vıklad, ne záruky stanovené v této Smlouvi, není pro spoleenost Creative závaznı. Poejímáte veškerou zodpovidnost za vıbir Softwaru pro dosaení poedpokládanıch vısledku a za staení, pouití a vısledky získané pomocí Softwaru. Také poejímáte všechna rizika související s kvalitou a vıkonem Softwaru. Pokud se prokáe, e je Software závadnı, nesete vy (nikoli spoleenost Creative nebo její distributooi ei prodejci) veškeré náklady všech nezbytnıch slueb, oprav a úprav.
+
+Dále spoleenost Creative nebude odpovídat za poesnost jakıchkoli informací, které poskytnou pracovníci technické podpory spoleenosti Creative nebo toetí strany, ani za jakékoli škody, zpusobené poímo ei nepoímo vaší einností nebo vašimi opomenutími, ke kterım dojde v dusledku takovéto technické podpory. 
+
+Tato záruka vám dává ureitá práva. Kromi nich muete mít i další práva, která se v ruznıch státech ei zemích liší. Nikteré státy ei zemi neumooují spoleenostem zoíci se poedpokládanıch záruk, proto je moné, e nikteré z vıše uvedenıch ustanovení se na vás nevztahují. Pokud byl Software upravován, znovu vloen do balení nebo jakımkoli zpusobem zminin jinım dodavatelem ne spoleeností Creative, zoíká se spoleenost Creative všech záruk jakéhokoli druhu.
+ 
+14. ZOEKNUTÍ SE ODPOVIDNOSTI ZA ŠKODY: OMEZENÍ ODPOVIDNOSTI (eást 14 se netıká zkušební verze Softwaru. Viz klauzule C v eásti „DODATEENÁ USTANOVENÍ PRO ZKUŠEBNÍ VERZI SOFTWARU“.)
+SPOLEENOST CREATIVE ANI POSKYTOVATELÉ JEJÍCH LICENCÍ NEBUDOU V ÁDNÉM POÍPADI ODPOVIDNI ZA ÁDNÉ ŠKODY (VEETNI, NIKOLI VŠAK POUZE, NÁHODNİCH, NEPOÍMİCH, ZVLÁŠTNÍCH NEBO NÁSLEDNİCH, ANI ZA ÁDNİ ÚRAZ NEBO ZRANINÍ (VEETNI ÚMRTÍ) KOHOKOLI ZPUSOBENÉ NEDBALOSTÍ SPOLEENOSTI CREATIVE, ZA ZTRÁTU ZISKU, POERUŠENÍ PODNIKÁNÍ, ZTRÁTU OBCHODNÍCH INFORMACÍ EI JAKOUKOLI JINOU FINANENÍ ZTRÁTU) ZPUSOBENÉ POUITÍM NEBO NEMONOSTÍ POUITÍ TOHOTO SOFTWARU, A TO I V POÍPADI, E SPOLEENOST CREATIVE NEBO POSKYTOVATELÉ JEJÍCH LICENCÍ BYLI NA MONOST VZNIKU TAKOVÉ ŠKODY UPOZORNINI. V ÁDNÉM POÍPADI NEPOEKROEÍ ODPOVIDNOST SPOLEENOSTI CREATIVE NEBO NÁHRADA ŠKOD ZPUSOBENİCH VÁM EI JINÉ OSOBI EÁSTKU, KTEROU JSTE ZAPLATILI ZA POUÍVÁNÍ SOFTWARU, BEZ OHLEDU NA ZPUSOB REKLAMACE. PROTOE NIKTERÉ STÁTY EI ZEMI NEUMOOUJÍ VYLOUEENÍ NEBO OMEZENÍ NÁHODNİCH A NÁSLEDNİCH ŠKOD, NIKTERÁ Z VİŠE UVEDENİCH OMEZENÍ SE NA VÁS NEMUSÍ VZTAHOVAT.
+
+15. ZBAVENÍ ODPOVIDNOSTI
+Pokud poi distribuci Softwaru porušujete tuto Smlouvu, zbavíte spoleenost Creative odpovidnosti, ochráníte a obhájíte ji proti veškerım nárokum nebo alobám veetni poplatku za právní zastoupení, které vzniknou následkem pouití nebo distribucí Softwaru porušujícím tuto Smlouvu.
+
+16. OMEZENÁ PRÁVA PRO VLÁDU SPOJENİCH STÁTU
+Veškerı Software a s ním související dokumentace jsou poskytovány s omezenımi právy. Na pouití, kopírování nebo zpøístupnìní vládou Spojenıch státù (vèetnì kteréhokoli úøadu) se vztahují omezení stanovená v dokumentu Code of Federal Regulations (federální sbírka norem), vèetnì, avšak nikoli vıluènì, èlánku Rights in Technical Data and Computer Software (práva na technická data a poèítaèovı software) dokumentu Federal Acquisition Regulations (federální pøedpisy pro nákupy). Jestlie licencujete, sublicencujete nebo pouíváte Software mimo území USA, budou se na vás vztahovat pøíslušné místní zákony vaší zemì, zákon Spojenıch státù pro kontrolu vıvozu a anglická verze této Smlouvy.
+
+17. DODAVATEL/VİROBCE
+Dodavatelem/vırobcem tohoto Softwaru je:
+Creative Technology Ltd.
+31 International Business Park
+Creative Resource
+Singapore 609921
+
+18. OBECNÁ USTANOVENÍ
+Tato Smlouva je závazná pro vás stejni jako pro vaše zamistnance, zamistnavatele, dodavatele a obchodní zástupce a pro všechny nástupce a povolené nabyvatele práv. Software ani ádné z nij odvozené informace nesmijí bıt exportovány, kromi poípadu, kdy je to v souladu se zákony USA nebo s jinımi poíslušnımi ustanoveními. Tato Smlouva se oídí zákony státu Kalifornie (s vıjimkou rozsahu, ve kterém federální zákony oídí autorská práva a federální registrované ochranné známky). Smlouva je úplnım zniním smlouvy mezi námi. Souhlasíte s tím, e spoleenost Creative nebude odpovidná za ádná nesprávná tvrzení ani interpretace, které uvede sama spoleenost, její zástupci nebo kterákoli jiná osoba (a? u z neznalosti nebo z nedbalosti) a na které jste se spoléhali poi uzavírání této Smlouvy, pokud takováto nesprávná tvrzení nebo interpretace nebyly uvedeny s podvodnım úmyslem. Smlouva nahrazuje všechny ostatní dohody nebo smlouvy, veetni, nikoli však vıhradni, reklamy tıkající se daného Softwaru.
+
+Pokud je nikteré ustanovení této Smlouvy povaováno nikterou zemí ei vládním úoadem se soudní pravomocí za neplatné nebo neúeinné, bude poíslušné ustanovení povaováno za modifikované v rozsahu nutném k tomu, aby nabylo platnosti a úeinnosti, poieem zbıvající ustanovení zustávají plni v platnosti.
+
+S otázkami, které se tıkají této Smlouvy, se prosím obra?te na spoleenost Creative na vıše uvedené adrese. S otázkami, které se tıkají produktu nebo technickıch záleitostí, se obra?te na nejbliší centrum technické podpory spoleenosti Creative.
+
+Tento balíeek mue obsahovat software umooující poehrávat zvukové a audiovizuální disky DVD s chráninım obsahem. Funkenost tohoto Softwaru mue bıt ztracena, je-li ohroena bezpeenost systému ochrany obsahu. V tomto poípadi je jedinım opravnım prostoedkem, jak tuto funkenost obnovit, staení aktualizace produktu webovıch stránek spoleenosti Creative.
+
+DODATEK K LICENENÍ SMLOUVI SOFTWARU SPOLEENOSTI MICROSOFT
+======================================
+DULEITÉ: Pouíváním souboru softwaru spoleenosti Microsoft („Microsoft Software“), které jsou soueástí tohoto dodatku, dáváte souhlas k respektování následujících podmínek. Pokud nesouhlasíte s respektováním tichto podmínek, nebudete moci Microsoft Software pouívat.
+
+Microsoft Software je dodáván z jediného duvodu: nahradit odpovídající soubory poskytnuté s poedchozí licencovanou kopií softwarového produktu spoleenosti Microsoft („PUVODNÍ PRODUKT“). Po instalaci se soubory softwaru spoleenosti Microsoft stanou soueástí PUVODNÍHO PRODUKTU a budou podléhat stejnım zárukám a licenením podmínkám jako PUVODNÍ PRODUKT. Pokud k pouití PUVODNÍHO PRODUKTU nemáte platnou licenci, nemuete Microsoft Software pouívat. Jakékoli jiné pouití softwaru spoleenosti Microsoft je zakázáno.
+
+ádná eást této Smlouvy nebude ze strany spoleenosti Creative chápána jako obhajování ei schvalování porušování místních a/nebo mezinárodních zákonu, které se vztahují k vaší zemi.
+
+DODATEK K TECHNOLOGIÍM DRM / PlayReady 
+======================================
+Následující dodatek se tıká produktù vybavenıch technologií WMDRM (Windows Media Digital Rights Management) a/nebo PlayReady(tm).
+
+Vlastníci obsahu pouívají technologii WMDRM k ochrani svého duševního vlastnictví veetni autorskıch práv. Toto zaoízení pouívá software WMDRM k poístupu k obsahu chráninému technologií WMDRM. Pokud se softwaru WMDRM nepodaoí ochránit obsah, vlastníci obsahu mohou poádat spoleenost Microsoft o zrušení schopnosti softwaru pouívat technologii WMDRM k poehrávání ei kopírování chrániného obsahu. Toto zrušení se netıká nechrániného obsahu. Kdy si stahujete licence pro chráninı obsah, souhlasíte s tím, e spoleenost Microsoft mue k licencím poiloit seznam obsahu, pro kterı byla schopnost poehrávání a kopírování zrušena. Majitelé obsahu po vás mohou poadovat, abyste pro poístup k jejich obsahu provedli upgrade softwaru WMDRM. Pokud upgrade odmítnete, nebudete mít poístup k obsahu, kterı tento upgrade vyaduje. 
+
+Vlastníci obsahu pouívají technologii pøístupu k obsahu Microsoft PlayReady, aby chránili své duševní vlastnictví vèetnì obsahu chránìného autorskımi právy. Toto zaøízení pouívá technologii PlayReady pro pøístup k obsahu chránìnému technologií PlayReady a/nebo technologií WMDRM. Pokud zaøízení øádnì neuplatòuje omezení pouívání obsahu, vlastníci obsahu mohou poadovat, aby spoleènost Microsoft revokovala schopnost zaøízení vyuívat obsah chránìnı technologií PlayReady. Revokace nesmí mít vliv na nechránìnı obsah nebo na obsah chránìnı jinımi technologiemi pøístupu k obsahu. Vlastníci obsahu po vás mohou poadovat, abyste pro pøístup k jejich obsahu technologii PlayReady upgradovali. Pokud upgrade odmítnete, nebudete mít pøístup k obsahu, kterı tento upgrade vyaduje.
+
+DODATEK K SYSTÉMU ANDROID
+======================================
+Následující dodatek se tıká produktù obsahujících operaèní systém Android.
+
+Berete na vìdomí, e se na operaèní systém Android vztahují autorská práva spoleènosti Google Inc., spoleènosti zaloené podle právních pøedpisù státu Delaware, a kde je to vhodné, je tento systém licencován na základì licence Apache verze 2.0 („Licence“); operaèní systém Android nesmíte pouívat jinım zpùsobem ne v souladu s Licencí.  Kopii Licence mùete získat na webu http://www.apache.org/licenses/LICENSE-2.0. Není-li v platnıch právních pøedpisech nebo písemné smlouvì stanoveno jinak, je software distribuovanı na základì Licence šíøen „JAK JE“, BEZ ZÁRUK NEBO PODMÍNEK JAKÉHOKOLIV DRUHU, a u vyjádøenıch nebo pøedpokládanıch. V Licenci naleznete konkrétní jazykovou verzi oprávnìní a omezení platnıch na základì této Licence. Dále berete na vìdomí, e Android je ochranná známka spoleènosti Google Inc. Pouití ochranné známky Android podléhá oprávnìním spoleènosti Google. 
+
+DODATEK SPOLEÈNOSTI ADOBE
+======================================
+Následující dodatek se vztahuje na vırobky obsahující aplikace Adobe Flash® Player, Adobe AIR anebo Flash Lite™.
+
+Berete na vìdomí a souhlasíte s tím, e monost pøistupovat k obsahu z daného zdroje mùe záviset na získání a instalaci aktualizované verze pøíslušného softwaru.
+
+Berete na vìdomí a souhlasíte s tím, e platnost vašeho digitálního certifikátu/veøejného klíèe mùe bıt zrušena a vaše monost pøistupovat k obsahu z urèitého zdroje mùe záviset na získání a instalaci aktualizované verze pøíslušného softwaru, kterı bude obsahovat novı digitální certifikát/veøejnı klíè.
+
+INFORMACE O AUTORSKİCH PRÁVECH PRO UIVATELE PRODUKTU SPOLEENOSTI CREATIVE 
+======================================
+Nikteré produkty spoleenosti Creative jsou ureeny k reprodukci materiálu, na které vlastníte autorská práva nebo k jejich kopírování jste oprávnini vlastníkem autorskıch práv ei osvobozením v rozhodném právu. Pokud nevlastníte autorská práva nebo nemáte poíslušné oprávniní, muete porušit zákon na ochranu autorskıch práv a bude na vás poadováno uhrazení zpusobenıch škod a další odškodné. Pokud si nejste jisti svımi právy, obra?te se na svého právního poradce. 
+
+Pouíváte-li produkt spoleenosti Creative, je vaší povinností zajistit, aby nedocházelo k poestoupení poíslušnıch zákonu na ochranu autorskıch práv, na základi kterıch mue bıt pro kopírování ureitıch materiálu poadován poedchozí souhlas vlastníka autorskıch práv. Spoleenost Creative se zoíká odpovidnosti za jakékoli nelegální pouívání svého produktu a nebude v ádném poípadi odpovidná za puvodní data uloená v komprimovaném zvukovém nebo audiovizuálním souboru. 
+
+Uznáváte a souhlasíte s tím, e exportování nebo pouití kodeku MP3, které mohou bıt dodány se softwarem, ve vysílání v reálném ease (pozemní, satelitní, kabelová nebo jiná média) nebo ve vysílání poes Internet nebo jiné síti, jako napoíklad, ale nejen, síti intranet apod., ve zvukovıch aplikacích, které jsou placené nebo placené na poádání, není oprávniné ani licencované.
+
+ZVLÁŠTNÍ USTANOVENÍ PLATNÁ PRO EVROPSKOU UNII
+======================================
+Jestlie jste Software stáhli v Evropské unii (EU), platí pro vás rovni následující ustanovení. Jestlie je nijakı rozpor mezi vıše uvedenımi podmínkami licenení Smlouvy na Software a timi, které jsou uvedeny v následujících ustanoveních, mají POEDNOSTNÍ PLATNOST následující ustanovení.
+
+Zpitnı poeklad:
+Souhlasíte s tím, e za ádnım úeelem nebudete Software šíoit, ani zobrazovat objektovı kód Softwaru na obrazovce poeítaee, ani nebudete tisknout kopie pamiti obsahující objektovı kód Softwaru. Pokud se budete domnívat, e potoebujete informace, které se vztahují ke spustitelnosti Softwaru s jinımi programy, nebudete Software zpitni poekládat ani poevádit zpit do asembleru, abyste tyto informace získali a souhlasíte s tím, e si tyto informace vyádáte od spoleenosti Creative na vıše uvedené adrese. Na základi takovéto ádosti spoleenost Creative ureí, zda tyto informace poadujete pro legitimní úeely, a poípadni vám tyto informace poskytne v poimioené lhuti a za poimioenıch podmínek.
+
+OMEZENÁ ZÁRUKA:
+KROMI POÍPADU UVEDENİCH VİŠE V TÉTO SMLOUVI A POÍPADU UVEDENİCH DÁLE POD NADPISEM „STATUTÁRNÍ PRÁVA“ JE SOFTWARE POSKYTOVÁN TAK, JAK JE, BEZ JAKÉKOLI ZÁRUKY VİSLOVNI UVEDENÉ NEBO POEDPOKLÁDANÉ VEETNI, ALE NIKOLI VİHRADNI, VŠECH POEDPOKLÁDANİCH ZÁRUK NEBO PODMÍNEK VZTAHUJÍCÍCH SE K OBCHODOVATELNOSTI, KVALITI NEBO VHODNOSTI PRO UREITİ ÚEEL, TITUL NEBO NEPORUŠENÍ PRÁVA.
+
+OMEZENÍ OPRAVNİCH PROSTOEDKU A FINANENÍCH NÁHRAD:
+OMEZENÍ OPRAVNİCH PROSTOEDKU A FINANENÍCH NÁHRAD V LICENENÍ SMLOUVI NA SOFTWARE SE NEVZTAHUJE NA ZRANINÍ OSOB (VEETNI SMRTI), KTERÉ BY JAKÉKOLI OSOBI ZPUSOBILA NEDBALOST SPOLEENOSTI CREATIVE A PODLÉHAJÍ USTANOVENÍM UVEDENİM V ODSTAVCI NADEPSANÉM „STATUTÁRNÍ PRÁVA”.
+
+Statutární práva:
+Irské zákony stanovují, e ureité podmínky a záruky mohou bıt ve smlouvách o prodeji zboí a smlouvách o poskytování slueb poedpokládány. Takové podmínky a záruky jsou zde vyloueeny v takovém rozsahu, jakı je v kontextu této transakce podle irskıch zákonu povolen. Naopak platné budou ty podmínky a záruky, kterém nemohou bıt podle práva vyloueeny. Obdobni nic v této Smlouvi nebude poškozovat ádná práva, která máte na základi oddílu 12, 13, 14 a 15 irského zákona o prodeji zboí (Sale of Goods Act) z roku 1893 (v platném zniní).
+
+Obecné informace:
+Tato Smlouva se oídí zákony Irské republiky. Pro Software koupenı v EU bude platit verze této Smlouvy v místním jazyce. Tato Smlouva je úplnım zniním smlouvy mezi námi. Souhlasíte s tím, e spoleenost Creative nenese odpovidnost za jakákoli nesprávná tvrzení nebo interpretace, které uvede tato spoleenost, její zástupci nebo kdokoli jinı (a? z neznalosti nebo z nedbalosti) a na které jste se spoléhali poi uzavírání této Smlouvy, pokud takováto nesprávná tvrzení nebo interpretace nebyly uvedeny s podvodnım úmyslem.
+
+DODATEENÁ USTANOVENÍ PRO ZKUŠEBNÍ VERZI SOFTWARU
+======================================
+
+A. Práva k instalaci a pouívání
+Zkušební verzi Softwaru muete na jedno zaoízení nainstalovat jen jednou (vıhradni ve formi objektového kódu). Zkušební verzi Softwaru jste oprávnini pouívat v jednu chvíli jen na jednom zaoízení (maximálni na 3 zaoízeních, v jednu chvíli však jen na jednom). Soubiné pouití zkušební verze Softwaru na více zaoízeních není podle této Licence povoleno. Zkušební verzi Softwaru muete pouít jen k jeho vyhodnocení pro svou osobní potoebu. Nemáte ádná práva pouívat zkušební verzi Softwaru k jakımkoli komerením úeelum ani na ní jakımkoli zpusobem vydilávat.
+
+B. Zkušební doba
+Zkušební verze Softwaru obsahuje sledovací modul, kterı umoouje její spouštiní po dobu uvedenou poi instalaci na webové stránce, odkud se software stahuje (poeínaje dnem instalace – tzv. „Zkušební doba)“. Pokud se rozhodnete, e Software nezakoupíte, bude na konci Zkušební doby zkušební verze Softwaru deaktivována a nebudete nadále oprávnini ji pouívat. Mue se stát, e nebudete na vypršení ei deaktivaci zkušební verze Softwaru na konci Zkušební doby nijak upozornini. Pokud se rozhodnete, e Software nezakoupíte, musíte zkušební verzi Softwaru ze svého zaoízení odinstalovat, jinak v nim zustane i po deaktivaci. Mue se stát, e po deaktivaci zkušební verze Softwaru nebudete mít poístup k datum, která jste s ní pouívali. Ani spoleenost Creative ani její poboeky nebudou ádnım zpusobem zodpovidné za jakoukoli ztrátu dat ei informací ani za jakékoli jiné nesrovnalosti vzniklé v dusledku deaktivace zkušební verze Softwaru.
+
+C. ZOEKNUTÍ SE ODPOVIDNOSTI ZA ŠKODY: OMEZENÍ ODPOVIDNOSTI 
+SPOLEENOST CREATIVE ANI POSKYTOVATELÉ JEJÍCH LICENCÍ NEBUDOU V ÁDNÉM POÍPADI ODPOVIDNI ZA ÁDNÉ ŠKODY (VEETNI, NIKOLI VŠAK POUZE, NÁHODNİCH, NEPOÍMİCH, ZVLÁŠTNÍCH NEBO NÁSLEDNİCH, ANI ZA ÁDNİ ÚRAZ NEBO ZRANINÍ (VEETNI ÚMRTÍ) KOHOKOLI ZPUSOBENÉ NEDBALOSTÍ SPOLEENOSTI CREATIVE, ZA ZTRÁTU ZISKU, POERUŠENÍ PODNIKÁNÍ, ZTRÁTU OBCHODNÍCH INFORMACÍ EI JAKOUKOLI JINOU FINANENÍ ZTRÁTU) ZPUSOBENÉ TOUTO SMLOUVOU NEBO POUITÍM EI NEMONOSTÍ POUITÍ TÉTO ZKUŠEBNÍ VERZE SOFTWARU, A TO I V POÍPADI, E SPOLEENOST CREATIVE NEBO
+ POSKYTOVATELÉ JEJÍCH LICENCÍ BYLI NA MONOST VZNIKU TAKOVİCH ŠKOD UPOZORNINI. PROTOE NIKTERÉ STÁTY EI ZEMI NEUMOOUJÍ VYLOUEENÍ NEBO OMEZENÍ ODPOVIDNOSTI ZA ÚMRTÍ, OSOBNÍ ÚJMU EI ZRANINÍ, NÁSLEDNÉ NEBO NÁHODNÉ ŠKODY, VİŠE UVEDENÁ OMEZENÍ SE NA VÁS NEMUSEJÍ VZTAHOVAT.
+
+D. Tato zkušební verze Softwaru mue obsahovat software Adobe(r) Flash(r) Player spoleenosti Adobe Systems Incorporated, Copyright(c) 1995-2008 Adobe Macromedia Software LLC. Všechna práva vyhrazena. Adobe a Flash jsou ochranné známky spoleenosti Adobe Systems Incorporated.
+
+
+======================================
+K o n e c   S m l o u v y
+======================================
+
+======================================
+CREATIVE END-USER SOFTWARE LICENSE AGREEMENT
+Version 3.5, May 2011
+======================================
+
+PLEASE READ THIS DOCUMENT CAREFULLY. YOU MUST AGREE TO THE TERMS OF THIS AGREEMENT BEFORE DOWNLOADING, INSTALLING, OR USING THE SOFTWARE.
+
+IF YOU ARE PLANNING TO DOWNLOAD AND USE TRIAL SOFTWARE FROM THIS WEBSITE OR FROM A CD/DVD, PLEASE SPECIFICALLY READ THROUGH THE SECTION TITLED "ADDITIONAL PROVISIONS FOR TRIAL SOFTWARE" IN ADDITION TO THE TERMS AND CONDITIONS CONTAINED HEREUNDER. PLEASE DO NOT DOWNLOAD OR USE THE TRIAL SOFTWARE UNTIL YOU HAVE READ AND AGREED WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, INCLUDING THE SECTION TITLED "ADDITIONAL PROVISIONS FOR TRIAL SOFTWARE".
+
+This is a legal agreement between you and Creative Technology Ltd and its subsidiaries ("Creative"). This Agreement states the terms and conditions upon which Creative offers to license the software together with all related documentation and accompanying items including, but not limited to, the executable programs, drivers, libraries and data files associated with such programs (collectively, the "Software").
+
+LICENSE
+1. Grant of License
+The Software is licensed, not sold, to you for use only under the terms of this Agreement. This License Agreement is your proof of license to exercise the rights granted herein and must be retained by you. As between you and Creative (and, to the extent applicable, its licensors), Creative retains all title to and ownership of the Software and reserves all rights not expressly granted to you. Creative grants to you the right to use all or a portion of this Software provided that 
+(a) the Software is not distributed for profit;
+(b) the Software is used only in conjunction with Creative's family of products;
+(c) the Software is NOT modified; and 
+(d) all copyright notices are maintained on the Software.  
+
+2. For Use on a Single Computer or Device
+The Software may be used only on a single computer or Creative device (“Device”) by a single user at any time. You may transfer the machine-readable portion of the Software from one computer to another computer if the Software was installed from a CD/DVD, provided that
+(a) the Software (including any portion or copy thereof) is erased from the first computer and 
+(b) there is no possibility that the Software will be used on more than one computer at a time.
+You may not transfer the Software from a Device to a computer or another device.
+
+3. Stand-Alone Basis
+You may use the Software only on a stand-alone basis, such that the Software and the functions it provides are accessible only to persons who are physically present at the location of the computer or Device on which the Software is loaded. You may not allow the Software or its functions to be accessed remotely, or transmit all or any portion of the Software through any network or communication line.
+
+4. Copyright
+The Software is owned by Creative and/or its licensors, and is protected by United States copyright laws and international treaty provisions. You may not remove or alter the copyright notice from any copy of the Software or any copy of the written materials, if any, accompanying the Software. Other then the rights expressly set forth herein, this Agreement does not grant you any intellectual property rights in the Software. All rights not expressly granted by Creative are reserved by Creative and/or its licensors.
+
+5. One Archival Copy (Section 5 shall not apply to Trial Software)
+You may make one (1) archival copy of the machine-readable portion of the Software for backup purposes only in support of your use of the Software on a single computer (if the Software was originally on a CD/DVD), provided that you reproduce on the copy all copyright and other proprietary rights notices included on the originals of the Software.
+
+6. No Merger or Integration
+You may not merge any portion of the Software into, or integrate any portion of the Software with, any other program, except to the extent expressly permitted by the laws of the jurisdiction where you are located. Any portion of the Software merged into or integrated with another program, if any, will continue to be subject to the terms and conditions of this Agreement, and you must reproduce on the merged or integrated portion all copyright and other proprietary rights notices included on the originals of the Software.
+
+7. Network Version
+If you have purchased a "network" version of the Software, this Agreement applies to the installation of the Software on a single "file server". It may not be copied onto multiple systems. Each "node" connected to the "file server" must also have its own license of a "node copy" of the Software, which becomes a license only for that specific "node".
+	
+8. No Transfer of License
+You may not transfer your license of the Software to a third party.
+
+9. Limitations on Using, Copying, and Modifying the Software
+Except to the extent expressly permitted by this Agreement or by the laws of the jurisdiction where you acquired the Software, you may not use, copy or modify the Software. Nor may you sub-license any of your rights under this Agreement. You may use the Software for your personal use only, and not for public performance or for the creation of any form of public display.
+	
+10. Decompiling, Disassembling, or Reverse Engineering
+You acknowledge that the Software contains trade secrets and other proprietary information of Creative and its licensors. Except to the extent expressly permitted by this Agreement or by the laws of the jurisdiction where you are located, you may not decompile, disassemble or otherwise reverse engineer the Software, or engage in any other activities to obtain underlying information that is not visible to the user in connection with normal use of the Software.
+
+In particular, you agree not to transmit the Software or display the Software's object code on any computer screen or to make any hardcopy memory dumps of the Software's object code. If you believe you require information related to the interoperability of the Software with other programs, you shall not decompile or disassemble the Software to obtain such information, and you agree to request such information from Creative at the address listed below. Upon receiving such a request, Creative shall determine in its sole discretion whether to provide such information to you.
+
+In any event, you will notify Creative of any information derived from reverse engineering or such other activities, and the results thereof will constitute the confidential information of Creative that may be used only in connection with the Software.
+
+11. Gracenote(R) CDDB(R) Terms of Use
+This application or device may contain software from Gracenote, Inc. of Emeryville, California ("Gracenote").  The software from Gracenote (the "Gracenote Software") enables this application to perform disc and/or file identification and obtain music-related information, including name, artist, track, and title information ("Gracenote Data") from online servers or embedded databases (collectively, "Gracenote Servers") and to perform other functions.  You may use Gracenote Data only by means of the intended End-User functions of this application or device.
+
+You acknowledge and agree that Creative does not make any representation, undertaking or warranty, either express, implied, or otherwise regarding the provision, continuity of provision and/or use of Gracenote Client, Gracenote Data or Gracenote Server or related materials. You specifically agree that Creative does not guarantee that you will be able to access Gracenote services throughout the term of this Agreement.
+
+You further acknowledge and agree that Creative shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or alleged to be caused by or in connection with the use of or inability to use Gracenote Client, Gracenote Data or Gracenote Server or related materials.  
+
+You agree that you will use Gracenote Data, the Gracenote Software, and Gracenote Servers for your own personal non-commercial use only.  You agree not to assign, copy, transfer or transmit the Gracenote Software or any Gracenote Data (except in a Tag associated with a music file) to any third party.  YOU AGREE NOT TO USE OR EXPLOIT GRACENOTE DATA, THE GRACENOTE SOFTWARE, OR GRACENOTE SERVERS, EXCEPT AS EXPRESSLY PERMITTED HEREIN.
+
+You agree that your non-exclusive license to use the Gracenote Data, the Gracenote Software, and Gracenote Servers will terminate if you violate these restrictions.  If your license terminates, you agree to cease any and all use of the Gracenote Data, the Gracenote Software, and Gracenote Servers.  Gracenote reserves all rights in Gracenote Data, the Gracenote Software, and the Gracenote Servers, including all ownership rights.  Under no circumstances will Gracenote become liable for any payment to you for any information that you provide.  You agree that Gracenote, Inc. may enforce its rights under this Agreement against you directly in its own name.
+
+The Gracenote service uses a unique identifier to track queries for statistical purposes.  The purpose of a randomly assigned numeric identifier is to allow the Gracenote service to count queries without knowing anything about who you are.  For more information, see the Gracenote web page for the Gracenote Privacy Policy for the Gracenote service.
+
+The Gracenote Software and each item of Gracenote Data are licensed to you "AS IS."  Gracenote makes no representations or warranties, express or implied, regarding the accuracy of any Gracenote Data from in the Gracenote Servers.  Gracenote reserves the right to delete data from the Gracenote Servers or to change data categories for any cause that Gracenote deems sufficient.  No warranty is made that the Gracenote Software or Gracenote Servers are error-free or that functioning of Gracenote Software or Gracenote Servers will be uninterrupted. Gracenote is not obligated to provide you with new enhanced or additional data types or categories that Gracenote may provide in the future and is free to discontinue its services at any time.
+
+GRACENOTE DISCLAIMS ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.  GRACENOTE DOES NOT WARRANT THE RESULTS THAT WILL BE OBTAINED BY YOUR USE OF THE GRACENOTE SOFTWARE OR ANY GRACENOTE SERVER.  IN NO CASE WILL GRACENOTE BE LIABLE FOR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES OR FOR ANY LOST PROFITS OR LOST REVENUES.
+
+12. TERMINATION
+The license granted to you is effective until terminated. You may terminate it at any time by destroying the Software (including any portions or copies thereof) currently in your possession or control. The license will also terminate automatically without any notice from Creative if you fail to comply with any term or condition of this Agreement. You agree upon any such termination to destroy the Software (including any portions or copies thereof). Upon termination, Creative may also enforce any and all rights provided by law. The provisions of this Agreement that protect the proprietary rights of Creative will continue in force after termination.
+
+13. NO WARRANTY
+ANY USE BY YOU OF THE SOFTWARE IS AT YOUR OWN RISK. THE SOFTWARE IS PROVIDED FOR USE ONLY WITH CREATIVE'S HARDWARE AND RELATED SOFTWARE. THE SOFTWARE IS PROVIDED FOR USE "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, CREATIVE DISCLAIMS ALL WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. CREATIVE IS NOT OBLIGATED TO PROVIDE ANY UPDATES OR UPGRADES TO THE SOFTWARE.
+
+No distributor, dealer or any other entity or person is authorized to expand or alter this warranty or any other provisions of this Agreement. Creative does not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be uninterrupted or error-free or free from malicious code. For purposes of this paragraph, "malicious code" means any program code designed to contaminate other programs or data, consume resources, modify, destroy, record, or transmit data, or in some other fashion usurp the normal operation of the computer, computer system, computer network, or other devices, including viruses, Trojan horses, droppers, worms, logic bombs, and the like. 
+
+Any representation, other than the warranties set forth in this Agreement, will not bind Creative. You assume full responsibility for the selection of the Software to achieve your intended results, and for the downloading, use and results obtained from the Software. You also assume the entire risk as it applies to the quality and performance of the Software. Should the Software prove defective, you (and not Creative, or its distributors or dealers) assume the entire cost of all necessary servicing, repair or correction.
+
+Further, Creative shall not be liable for the accuracy of any information provided by Creative or third-party technical support personnel, or any damages caused, either directly or indirectly, by acts taken or omissions made by you as a result of such technical support. 
+
+This warranty gives you specific legal rights, and you may also have other rights which vary from country/state to country/state. Some countries/states do not allow the exclusion of implied warranties, so the above exclusion may not apply to you. Creative disclaims all warranties of any kind if the Software was customized, repackaged or altered in any way by any third party other than Creative.
+ 
+14. DISCLAIMER OF DAMAGES: LIMITATION OF LIABILITY (Section 14 shall not apply to Trial Software. Please refer to Clause C under "Additional Provisions for Trial Software".)
+IN NO EVENT SHALL CREATIVE OR ITS LICENSORS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY PERSONAL INJURY OR BODILY INJURY (INCLUDING DEATH) TO ANY PERSON CAUSED BY CREATIVE'S NEGLIGENCE, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THIS SOFTWARE, EVEN IF CREATIVE OR ITS LICENSORS  HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL CREATIVE’S LIABILITY OR DAMAGES TO YOU OR ANY OTHER PERSON EVER EXCEED THE AMOUNT PAID BY YOU TO USE THE SOFTWARE, REGARDLESS OF THE FORM OF THE CLAIM. BECAUSE SOME STATES/ COUNTRIES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+15. INDEMNIFICATION BY YOU
+If you distribute the Software in violation of this Agreement, you hereby indemnify, hold harmless and defend Creative from and against any and all claims or lawsuits, including attorney's fees and costs that arise, result from or are connected with the use or distribution of the Software in violation of this Agreement.
+
+16. U.S. GOVERNMENT RESTRICTED RIGHTS
+All Software and related documentation are provided with restricted rights. Use, duplication or disclosure by the U.S. Government (including any agency) is subject to restrictions as set forth in the Code of Federal Regulations, including but not limited to the Rights in Technical Data and Computer Software Clause of the Federal Acquisition Regulations. If you are licensing, sub-licensing or using the Software outside of the United States, you will comply with the applicable local laws of your country, U.S. export control law, and the English version of this Agreement.
+
+17. CONTRACTOR/MANUFACTURER
+The Contractor/Manufacturer for the Software is:
+Creative Technology Ltd
+31 International Business Park
+Creative Resource
+Singapore 609921
+
+18. GENERAL
+This Agreement is binding on you as well as your employees, employers, contractors and agents, and on any successors and permitted assignees. Neither the Software nor any information derived therefrom may be exported except in accordance with the laws of the U.S. or other applicable provisions. This Agreement is governed by the laws of the State of California (except to the extent federal law governs copyrights and federally registered trademarks). This Agreement is the entire agreement between us and you agree that Creative will not have any liability for untrue statement or representation made by it, its agents or anyone else (whether innocently or negligently) upon which you relied upon entering this Agreement, unless such untrue statement or representation was made fraudulently. This Agreement supersedes any other understandings or agreements, including, but not limited to, advertising, with respect to the Software.
+
+If any provision of this Agreement is deemed invalid or unenforceable by any country or government agency having jurisdiction, that particular provision will be deemed modified to the extent necessary to make the provision valid and enforceable, and the remaining provisions will remain in full force and effect.
+
+For questions concerning this Agreement, please contact Creative at the address stated above. For questions on product or technical matters, contact the Creative technical support center nearest you.
+
+This package may include software with DVD-Audio and/or DVD-Video functionality for you to play content-protected DVD-Audio and/or DVD-Video discs. The functionality of this Software may be lost if the content protection system is compromised. In this event, your sole remedy to restore such functionality is to download a product update from Creative's website.
+
+ADDENDUM TO THE MICROSOFT SOFTWARE LICENSE AGREEMENT
+======================================
+IMPORTANT: By using the Microsoft software files (the "Microsoft Software") provided with this Addendum, you are agreeing to be bound by the following terms. If you do not agree to be bound by these terms, you may not use the Microsoft Software.
+
+The Microsoft Software is provided for the sole purpose of replacing the corresponding files provided with a previously licensed copy of the Microsoft software product ("ORIGINAL PRODUCT"). Upon installation, the Microsoft Software files become part of the ORIGINAL PRODUCT and are subject to the same warranty and license terms and conditions as the ORIGINAL PRODUCT. If you do not have a valid license to use the ORIGINAL PRODUCT, you may not use the Microsoft Software. Any other use of the Microsoft Software is prohibited.
+
+Nothing in this Agreement shall be construed on the part of Creative as advocating or authorizing the infringement of local and/or international laws applicable to your jurisdiction.
+
+DRM /PlayReady ADDENDUM 
+======================================
+The following addendum is applicable to products containing Windows Media digital rights management technology (WMDRM) and/or PlayReady(tm) technology.
+
+Content owners use Windows Media digital rights management technology (WMDRM) to protect their intellectual property, including copyrights. This device uses WMDRM software to access WMDRM-protected content. If the WMDRM software fails to protect the content, content owners may ask Microsoft to revoke the software’s ability to use WMDRM to play or copy protected content. Revocation does not affect unprotected content. When you download licenses for protected content, you agree that Microsoft may include a revocation list with the licenses. Content owners may require you to upgrade WMDRM to access their content. If you decline an upgrade, you will not be able to access content that requires the upgrade. 
+
+Content owners use Microsoft PlayReady content access technology to protect their intellectual property, including copyrighted content. This device uses PlayReady technology to access PlayReady-protected content and/or WMDRM-protected content. If the device fails to properly enforce restrictions on content usage, content owners may require Microsoft to revoke the device’s ability to consume PlayReady-protected content. Revocation should not affect unprotected content or content protected by other content access technologies. Content owners may require you to upgrade PlayReady to access their content. If you decline an upgrade, you will not be able to access content that requires the upgrade.
+
+ANDROID ADDENDUM
+======================================
+The following addendum is applicable to products containing the Android operating system.
+
+You acknowledge that the Android OS is the copyright of Google Inc., a Delaware corporation, and where applicable, is licensed under the Apache License, Version 2.0 (the “License”); you may not use the Android OS except in compliance with the License.  You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. You further acknowledge that Android is a trademark of Google Inc. Use of the Android trademark is subject to Google Permissions. 
+
+ADOBE ADDENDUM
+======================================
+The following addendum is applicable to products containing the Adobe Flash® Player, Adobe AIR, and/or Flash Lite™.
+
+You acknowledge and agree that your ability to access content from a given source may depend on obtaining and installing an updated version of the applicable software.
+
+You acknowledge and agree that your digital certificate/public key may be revoked and your ability to access content from a given source may depend on obtaining and installing an updated version of the applicable software containing a new digital certificate/public key.
+
+COPYRIGHT INFORMATION FOR USERS OF CREATIVE PRODUCTS 
+======================================
+Certain Creative products are designed to assist you in reproducing material for which you own the copyright or are authorized to copy by the copyright owner or by exemption in applicable law. Unless you own the copyright or have such authorization, you may be violating copyright law and may be subject to payment of damages and other remedies. If you are uncertain about your rights, you should contact your legal advisor. 
+
+It is your responsibility when using a Creative product to ensure there is no infringement of applicable laws on copyright whereby the copying of certain materials may require the prior consent of the copyright owners. Creative disclaims any liability with regard to any illegal use of the Creative product and Creative shall in no event be liable with regard to the origin of any data stored in a compressed audio or video file. 
+
+You acknowledge and agree that the exportation or use of MP3 Codecs that may be included with your software, in real-time broadcasting (terrestrial, satellite, cable or other media) or broadcasting via Internet or other networks, such as but not limited to intranets etc., in pay-audio or pay-on-demand applications, is not authorized and/or licensed.
+
+SPECIAL PROVISIONS APPLICABLE TO THE EUROPEAN UNION
+======================================
+If you downloaded the Software in the European Union (EU), the following provisions also apply to you. If there is any inconsistency between the terms of the Software License Agreement set out above and the following provisions, the following provisions shall take PRECEDENCE.
+
+Decompilation:
+You agree not for any purpose to transmit the Software or display the Software's object code on any computer screen or to make any hard copy memory dumps of the Software's object code. If you believe you require information related to the interoperability of the Software with other programs, you shall not decompile or disassemble the Software to obtain such information, and you agree to request such information from Creative at the address listed earlier. Upon receiving such a request, Creative shall determine whether you require such information for a legitimate purpose and, if so, Creative will provide such information to you within a reasonable time and on reasonable conditions.
+
+LIMITED WARRANTY:
+EXCEPT AS STATED ABOVE IN THIS AGREEMENT, AND AS PROVIDED BELOW UNDER THE HEADING "STATUTORY RIGHTS", THE SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT.
+
+LIMITATION OF REMEDY AND DAMAGES:
+THE LIMITATIONS OF REMEDIES AND DAMAGES IN THE SOFTWARE LICENSE AGREEMENT SHALL NOT APPLY TO PERSONAL INJURY (INCLUDING DEATH) TO ANY PERSON CAUSED BY CREATIVE'S NEGLIGENCE AND ARE SUBJECT TO THE PROVISION SET OUT BELOW UNDER THE HEADING "STATUTORY RIGHTS".
+
+Statutory rights:
+Irish law provides that certain conditions and warranties may be implied in contracts for the sale of goods and in contracts for the supply of services. Such conditions and warranties are hereby excluded, to the extent such exclusion, in the context of this transaction, is lawful under Irish law. Conversely, such conditions and warranties, insofar as they may not be lawfully excluded, shall apply. Accordingly nothing in this Agreement shall prejudice any rights that you may enjoy by virtue of Sections 12, 13, 14 or 15 of the Irish Sale of Goods Act 1893 (as amended).
+
+General:
+This Agreement is governed by the laws of the Republic of Ireland. The local language version of this Agreement shall apply to Software downloaded in the EU. This Agreement is the entire agreement between us, and you agree that Creative will not have any liability for any untrue statement or representation made by it, its agents or anyone else (whether innocently or negligently) upon which you relied upon entering this Agreement, unless such untrue statement or representation was made fraudulently.
+
+ADDITIONAL PROVISIONS FOR TRIAL SOFTWARE
+======================================
+
+A. Installation and Use Rights
+You may install the Trial Software only once per device (solely in object code form). You are authorised to use the Trial Software only on one device at any given time (maximum number of 3 devices but only one device at any given time). Simultaneous use of the Trial Software on more than one device is not permitted under this License. You may use the Trial Software only to internally evaluate it for your personal purposes. You are not granted any rights to use the Trial Software for any commercial purposes or derive profit in any manner whatsoever.
+
+B. Trial Period
+The Trial Software has an in-built tracker which allows the Trial Software to be activated for the period of time specified on the web download page while installing the Trial Software (including the date of installation - "Trial Period"). At the end of the Trial Period, if you choose not to purchase the Software, the Trial Software will be deactivated and you are not authorised to use the Trial Software after the Trial Period. You may not receive any notice warning that the Trial Software is going to be deactivated or expire at the end of the Trial Period. If you decide not to purchase the Trial Software, you must uninstall the Trial Software from your device, otherwise it will reside in your device even after deactivation. You may not be able to access data used with the Trial Software after it has been deactivated. Neither Creative nor its affiliates will be, in any manner responsible for any loss of data or information or any other discrepancy resulting from the deactivation of the Trial Software.
+
+C. DISCLAIMER OF DAMAGES: LIMITATION OF LIABILITY 
+IN NO EVENT SHALL CREATIVE OR ITS LICENSORS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY PERSONAL INJURY OR BODILY INJURY (INCLUDING DEATH) TO ANY PERSON CAUSED BY CREATIVE'S NEGLIGENCE, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THIS AGREEMENT OR THE USE OR INABILITY TO USE THIS TRIAL SOFTWARE, EVEN IF CREATIVE OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES/ COUNTRIES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR DEATH, PERSONAL OR BODILY INJURY, CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+D. This Trial Software may contain Adobe(r) Flash(r) Player software by Adobe Systems Incorporated, Copyright(c) 1995-2008 Adobe Macromedia Software LLC. All rights reserved. Adobe and Flash are trademarks of Adobe Systems Incorporated.
+
+
+======================================
+E n d    o f    A g r e e m e n t
+======================================
