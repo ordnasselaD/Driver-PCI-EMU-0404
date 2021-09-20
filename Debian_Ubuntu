@@ -1,0 +1,12 @@
+Installation EMU 0404 PCI and other sound card on Linux
+
+1 search google kxstudio project (today https://kx.studio/Repositories )
+2 select repositories and install repositories (follow instructions)
+3 now run apt-get update ( to update repositories)
+4 install apt-get install -y alsa-firmware-loaders alsa-firmware
+5 restart system
+6 EMU 0404 PUMP YOUR SPEAKER
+
+Thanks to Linux Italia
+and Paolo S.
+Saltui Ale
